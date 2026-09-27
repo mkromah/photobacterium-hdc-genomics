@@ -1,0 +1,112 @@
+HDC2 horizontal-transfer candidate: P. phosphoreum FS3_1 and P. toruni S2MW2
+
+Genomes
+-------
+P. phosphoreum FS3_1:
+GCF_001676275.1
+HDC2 protein: WP_202908000.1
+
+P. toruni S2MW2:
+GCF_036040135.1
+HDC2 protein: WP_327777331.1
+
+1. Species-tree / gene-tree discordance
+---------------------------------------
+FS3_1 and S2MW2 form a strongly supported HDC2 gene-tree grouping that is
+discordant with the UBCG core-genome species tree.
+
+Their smallest common species-tree clade contains 33 of the 36 HDC2-positive
+genomes, indicating broad phylogenetic separation in the core-genome tree.
+
+2. HDC2 protein similarity
+--------------------------
+FS3_1 vs S2MW2 HDC2 global comparable-site amino-acid identity:
+97.059%
+
+Among the 162 cross-species comparisons in the 36-protein HDC2 dataset,
+the FS3_1-S2MW2 pair ranked 42nd by global comparable-site identity.
+BLASTP identified a 655-aa local alignment with 100.000% identity.
+
+3. Genomic context
+------------------
+Both loci were classified as COMPLETE_CLUSTER and contain:
+- amino-acid permease
+- HDC2
+- histidine--tRNA ligase (hisS)
+- transposase/integrase/recombinase-associated genes
+
+Shared RefSeq proteins immediately associated with the HDC2 core include:
+WP_065208648.1 - amino-acid permease
+WP_065208647.1 - histidine--tRNA ligase
+
+4. 16-kb HDC2 locus comparison
+------------------------------
+Orientation-normalized 16-kb windows aligned in one continuous BLASTN HSP.
+
+Alignment length: 16,001 bp
+Nucleotide identity: 99.513%
+Query coverage: 100%
+Mismatches: 74
+Gap openings: 4
+E-value: 0.0
+
+5. Whole-genome ANI
+-------------------
+FS3_1 -> S2MW2: 86.3171%
+S2MW2 -> FS3_1: 86.3201%
+
+Thus, the HDC2-associated locus is far more similar than expected from the
+overall genomic relationship between the two strains.
+
+6. Full HDC2-bearing contig comparison
+--------------------------------------
+FS3_1 HDC2-bearing contig length: 23,907 bp
+
+Non-overlapping >=99%-identity collinear sequence shared with S2MW2:
+22,897 bp
+
+Coverage of FS3_1 contig:
+95.78%
+
+HSP-length-weighted nucleotide identity:
+99.590%
+
+7. Distribution among HDC2-positive genomes
+--------------------------------------------
+The entire 16-kb FS3_1 cassette was found at near identity only in:
+- P. phosphoreum FS3_1
+- P. toruni S2MW2
+
+Most other HDC2-positive genomes matched only approximately 46-47% of the
+16-kb query, corresponding primarily to the conserved HDC2-associated core.
+
+8. Pair-specific mobile-element extension
+-----------------------------------------
+The major pair-specific portion begins around query position 7.6 kb and
+includes a large 7,864-bp block spanning positions 7,915-15,778.
+
+Genes overlapping the pair-specific portion include:
+- integrase core domain-containing protein
+- tyrosine-type recombinase/integrase
+- hypothetical protein
+- site-specific integrase
+- hypothetical protein
+
+Interpretation
+--------------
+The combined evidence is strongly consistent with recent mobile-element-
+mediated horizontal acquisition of an HDC2-associated genomic region shared
+between P. phosphoreum FS3_1 and P. toruni S2MW2.
+
+The evidence includes:
+(1) strongly supported HDC2 gene-tree/species-tree discordance,
+(2) exceptionally high cross-species HDC2 protein identity,
+(3) near-identity across an approximately 16-kb HDC2 locus,
+(4) approximately 99.59% identity across 95.78% of the FS3_1 HDC2-bearing
+    contig despite only approximately 86.32% whole-genome ANI,
+and
+(5) an integrase/recombinase-rich pair-specific mobile-element extension.
+
+These observations support horizontal transfer or shared recent acquisition
+of the HDC2-associated region, but they do not establish the direction of
+transfer or exclude acquisition from an unsampled third donor.

@@ -1,0 +1,39 @@
+LABELS
+SEPARATOR TAB
+DATA
+GCF_000613045.3	P. kishitanii ANT-2200
+GCF_001676135.1	P. phosphoreum AK-3
+GCF_003026615.1	P. phosphoreum AK-3
+GCF_059761725.1	P. phosphoreum
+GCF_965118505.1	P. phosphoreum SF1731
+GCF_059761745.1	P. phosphoreum
+GCF_021236705.1	P. phosphoreum TMW2.2126
+GCF_965119175.1	P. phosphoreum MIP2569
+GCF_003025795.1	P. phosphoreum FS-2.1
+GCF_001676195.1	P. phosphoreum FS1 1
+GCF_003025855.1	P. phosphoreum FS-1.1
+GCF_059749375.1	P. phosphoreum
+GCF_003026545.1	P. phosphoreum FS-2.3
+GCF_059761565.1	P. phosphoreum
+GCF_059761645.1	P. phosphoreum
+GCF_021236685.1	P. phosphoreum TMW2.2130
+GCF_021237025.1	P. phosphoreum TMW22033
+GCF_059761625.1	P. phosphoreum
+GCF_021237045.1	P. phosphoreum TMW22034
+GCF_003025775.1	P. phosphoreum FS-4.2
+GCF_059761445.1	P. phosphoreum
+GCF_059761525.1	P. phosphoreum
+GCF_965118525.1	P. phosphoreum SF661-B
+GCF_059761705.1	P. phosphoreum
+GCF_059761485.1	P. phosphoreum
+GCF_949787665.1	P. phosphoreum MIP2473
+GCF_059749295.1	P. phosphoreum
+GCF_003025815.1	P. phosphoreum FS-1.2
+GCF_059761605.1	P. phosphoreum
+GCF_059761545.1	P. phosphoreum
+GCF_001676275.1	P. phosphoreum FS3 1
+GCF_036040135.1	P. toruni S2MW2
+GCF_021236805.1	P. carnosum TMW2.2187
+GCF_003025875.1	P. phosphoreum AK-8
+GCF_003025935.1	P. kishitanii FS-7.1
+GCF_003025995.1	P. kishitanii Og61

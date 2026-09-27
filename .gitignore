@@ -1,0 +1,63 @@
+# ============================================================
+# Photobacterium HDC/HDC2 project
+# Files excluded from the public reproducibility repository
+# ============================================================
+
+# Raw / processed genome data
+data/
+
+# Runtime logs
+logs/
+
+# Third-party software binaries (e.g. UBCG JAR/ZIP files)
+tools/
+
+# Local environments
+envs/
+
+# Manuscript working files
+manuscript/
+
+# Python cache / temporary files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Metadata checkpoint snapshots are internal working records
+metadata/checkpoints/
+
+# ------------------------------------------------------------
+# Results
+# Keep only curated analysis outputs and reproducibility records.
+# ------------------------------------------------------------
+
+results/*
+
+# Final top-level tabular results
+!results/*.tsv
+
+# Core phylogeny / annotation outputs
+!results/phylogeny/
+!results/phylogeny/**
+
+# Gene phylogeny and HDC2 transfer-analysis inputs/results
+!results/gene_phylogeny/
+!results/gene_phylogeny/**
+
+# Reconstructed reproducibility outputs
+!results/reproducibility/
+!results/reproducibility/**
+
+# Small synteny result files
+!results/synteny/
+!results/synteny/**
+
+# IQ-TREE temporary restart checkpoints
+*.ckp.gz

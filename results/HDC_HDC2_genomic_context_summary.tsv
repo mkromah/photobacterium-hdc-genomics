@@ -1,0 +1,3 @@
+System	Total_genomes	hisS_nearby_n	hisS_nearby_pct	Transporter_confirmed_n	Transporter_evaluable_n	Transporter_confirmed_pct	Boundary_censored_n
+Conventional_HDC	98	98	100.0	98	98	100.0	0
+HDC2	36	36	100.0	32	32	100.0	4

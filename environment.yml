@@ -1,0 +1,32 @@
+name: photobacterium
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  # Core language
+  - python=3.11
+
+  # Python scientific stack
+  - numpy
+  - pandas
+  - scipy
+  - biopython
+  - matplotlib
+
+  # Sequence search and comparison
+  - blast=2.17.0
+  - fastani=1.34
+
+  # Multiple-sequence alignment
+  - mafft=7.526
+
+  # Phylogenetics
+  - iqtree=3.1.3
+  - fasttree
+
+  # UBCG / genome-analysis dependencies
+  - hmmer
+  - prodigal
+  - openjdk=17

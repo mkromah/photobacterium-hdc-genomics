@@ -1,0 +1,337 @@
+IQ-TREE version 3.1.3 for Linux x86 64-bit built Jul 26 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    photobacterium-vm (AVX2, FMA3, 31 GB RAM)
+Command: iqtree -s results/gene_phylogeny/Photobacterium_conventional_HDC_final497_aligned.faa -m MFP -B 1000 --alrt 1000 -T AUTO -pre results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98
+Seed:    411872 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sat Sep 19 21:05:21 2026
+Kernel:  AVX+FMA - auto-detect threads (8 CPU cores detected)
+
+Reading alignment file results/gene_phylogeny/Photobacterium_conventional_HDC_final497_aligned.faa ... Fasta format detected
+Reading fasta file: done in 0.000910997 secs using 13.61% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00125599 secs using 633.6% CPU
+Alignment has 98 sequences with 380 columns, 100 distinct patterns
+83 parsimony-informative, 1 singleton sites, 296 constant sites
+                                                                                              Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 1.78814e-05 secs using 89.48% CPU
+   1  GCF_000176795.1|WP_005301029.1|Photobacterium_damselae_subsp._damselae_CIP_102761|CIP_102761    0.53%    passed    100.00%
+   2  GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200                               0.00%    passed    100.00%
+   3  GCF_000949965.1|WP_036788792.1|Photobacterium_kishitanii|GCSL-A1-3                              0.00%    passed    100.00%
+   4  GCF_000950025.1|WP_045131090.1|Photobacterium_angustum|GCSL-A10-1                               0.00%    passed    100.00%
+   5  GCF_000950075.1|WP_036788792.1|Photobacterium_kishitanii|GCSL-A1-2                              0.00%    passed    100.00%
+   6  GCF_000950085.1|WP_045132719.1|Photobacterium_angustum|GCSL-A2-2                                0.00%    passed    100.00%
+   7  GCF_000950095.1|WP_036788792.1|Photobacterium_kishitanii|ATCC_BAA-1194                          0.00%    passed    100.00%
+   8  GCF_000950135.1|WP_036788792.1|Photobacterium_kishitanii|GCSL-A1-1                              0.00%    passed    100.00%
+   9  GCF_000950155.1|WP_045153999.1|Photobacterium_angustum|GCSL-A6                                  0.00%    passed    100.00%
+  10  GCF_000950185.1|WP_045131090.1|Photobacterium_angustum|GCSL-A10-3                               0.00%    passed    100.00%
+  11  GCF_000950215.1|WP_045132719.1|Photobacterium_angustum|GCSL-A9                                  0.00%    passed    100.00%
+  12  GCF_000950225.1|WP_045131090.1|Photobacterium_angustum|GCSL-A10-2                               0.00%    passed    100.00%
+  13  GCF_000950335.1|WP_036788792.1|Photobacterium_kishitanii|GCSL-A1-4                              0.00%    passed    100.00%
+  14  GCF_001455895.1|WP_036788792.1|Photobacterium_kishitanii|201212X                                0.00%    passed    100.00%
+  15  GCF_001676065.1|WP_065167963.1|Photobacterium_aquimaris|BS-2                                    0.00%    passed    100.00%
+  16  GCF_001676075.1|WP_065167963.1|Photobacterium_aquimaris|BS-1                                    0.00%    passed    100.00%
+  17  GCF_001676215.1|WP_036788792.1|Photobacterium_kishitanii|DSM_2167                               0.00%    passed    100.00%
+  18  GCF_001676235.1|WP_065190614.1|Photobacterium_kishitanii|calba1_1                               0.00%    passed    100.00%
+  19  GCF_001707815.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|LD-07                    0.53%    passed    100.00%
+  20  GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71                    0.53%    passed    100.00%
+  21  GCF_002142615.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|KC-Na-1                  0.53%    passed    100.00%
+  22  GCF_003004505.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|940804-1/2               0.53%    passed    100.00%
+  23  GCF_003004585.1|WP_106142172.1|Photobacterium_damselae_subsp._damselae|940804-1/1               0.53%    passed    100.00%
+  24  GCF_003025535.1|WP_065190614.1|Photobacterium_kishitanii|DSMZ_2167                              0.00%    passed    100.00%
+  25  GCF_003025625.1|WP_065167963.1|Photobacterium_aquimaris|BS2                                     0.00%    passed    100.00%
+  26  GCF_003025895.1|WP_036788792.1|Photobacterium_kishitanii|ckamo.1.1                              0.00%    passed    100.00%
+  27  GCF_003025935.1|WP_036788792.1|Photobacterium_kishitanii|FS-7.1                                 0.00%    passed    100.00%
+  28  GCF_003025945.1|WP_036788792.1|Photobacterium_kishitanii|B-421                                  0.00%    passed    100.00%
+  29  GCF_003025975.1|WP_036788792.1|Photobacterium_kishitanii|pjapo.1.1                              0.00%    passed    100.00%
+  30  GCF_003025995.1|WP_036788792.1|Photobacterium_kishitanii|Og61                                   0.00%    passed    100.00%
+  31  GCF_003026335.1|WP_045132719.1|Photobacterium_angustum|ATCC_33977                               0.00%    passed    100.00%
+  32  GCF_003026355.1|WP_036788792.1|Photobacterium_kishitanii|ATCC_BAA-1194                          0.00%    passed    100.00%
+  33  GCF_003026515.1|WP_065167963.1|Photobacterium_aquimaris|BS1                                     0.00%    passed    100.00%
+  34  GCF_003026635.1|WP_036788792.1|Photobacterium_kishitanii|FS-8.1                                 0.00%    passed    100.00%
+  35  GCF_003026655.1|WP_065190614.1|Photobacterium_kishitanii|calba.1.1                              0.00%    passed    100.00%
+  36  GCF_003026675.1|WP_036788792.1|Photobacterium_kishitanii|NCIMB_844                              0.00%    passed    100.00%
+  37  GCF_003026815.1|WP_005301029.1|Photobacterium_damselae|ATCC_33539                               0.53%    passed    100.00%
+  38  GCF_003026835.1|WP_045131090.1|Photobacterium_angustum|A10-2                                    0.00%    passed    100.00%
+  39  GCF_003026895.1|WP_045132719.1|Photobacterium_angustum|A2-4                                     0.00%    passed    100.00%
+  40  GCF_003026905.1|WP_045131090.1|Photobacterium_angustum|A10-1                                    0.00%    passed    100.00%
+  41  GCF_003026935.1|WP_045132719.1|Photobacterium_angustum|A9-1                                     0.00%    passed    100.00%
+  42  GCF_003026955.1|WP_045153999.1|Photobacterium_angustum|A6-1                                     0.00%    passed    100.00%
+  43  GCF_003026975.1|WP_036788792.1|Photobacterium_kishitanii|A1-3                                   0.00%    passed    100.00%
+  44  GCF_003026995.1|WP_045132719.1|Photobacterium_angustum|A2-2                                     0.00%    passed    100.00%
+  45  GCF_003027015.1|WP_045132719.1|Photobacterium_angustum|A2-1                                     0.00%    passed    100.00%
+  46  GCF_003027035.1|WP_036788792.1|Photobacterium_kishitanii|A1-2                                   0.00%    passed    100.00%
+  47  GCF_003027055.1|WP_036788792.1|Photobacterium_kishitanii|A1-1                                   0.00%    passed    100.00%
+  48  GCF_003027075.1|WP_045131090.1|Photobacterium_angustum|A10-3                                    0.00%    passed    100.00%
+  49  GCF_003027095.1|WP_045132719.1|Photobacterium_angustum|A2-3                                     0.00%    passed    100.00%
+  50  GCF_003027115.1|WP_036788792.1|Photobacterium_kishitanii|A1-4                                   0.00%    passed    100.00%
+  51  GCF_003130755.1|WP_106142172.1|Photobacterium_damselae|Phdp_Wu-1                                0.53%    passed    100.00%
+  52  GCF_004135105.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|KC-Na-NB1                0.53%    passed    100.00%
+  53  GCF_004794735.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|JM-2017                  0.53%    passed    100.00%
+  54  GCF_008806825.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|80077637                 0.53%    passed    100.00%
+  55  GCF_009665375.1|WP_068946983.1|Photobacterium_damselae|2012V-1072                               0.53%    passed    100.00%
+  56  GCF_013377605.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|CDC-1421-81              0.53%    passed    100.00%
+  57  GCF_013377775.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|82dy-OG8                 0.53%    passed    100.00%
+  58  GCF_014042565.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|125dy-OG11               0.53%    passed    100.00%
+  59  GCF_014525015.1|WP_068946983.1|Photobacterium_damselae|727-82                                   0.53%    passed    100.00%
+  60  GCF_015602445.1|WP_068946983.1|Photobacterium_damselae|DSM_110634                               0.53%    passed    100.00%
+  61  GCF_021765875.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|CSP_DAM2                 0.53%    passed    100.00%
+  62  GCF_021766015.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|CSP_DAM1                 0.53%    passed    100.00%
+  63  GCF_021768345.1|WP_237041112.1|Photobacterium_damselae_subsp._damselae|AS-16-0963-1             0.53%    passed    100.00%
+  64  GCF_021768365.1|WP_237034753.1|Photobacterium_damselae_subsp._damselae|AS-15-3942-9             0.53%    passed    100.00%
+  65  GCF_021768405.1|WP_237034753.1|Photobacterium_damselae_subsp._damselae|AS-15-3942-7             0.53%    passed    100.00%
+  66  GCF_021768425.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|AS-15-0759-2             0.53%    passed    100.00%
+  67  GCF_022129485.1|WP_068946983.1|Photobacterium_damselae|Ph7                                      0.53%    passed    100.00%
+  68  GCF_022129505.1|WP_068946983.1|Photobacterium_damselae|Ph4                                      0.53%    passed    100.00%
+  69  GCF_022129605.1|WP_068946983.1|Photobacterium_damselae|Ph3                                      0.53%    passed    100.00%
+  70  GCF_030168795.1|WP_068946983.1|Photobacterium_damselae|Pdd1605                                  0.53%    passed    100.00%
+  71  GCF_030168855.1|WP_068969528.1|Photobacterium_damselae|Pdd1411                                  0.53%    passed    100.00%
+  72  GCF_030169005.1|WP_284633720.1|Photobacterium_damselae|Pdd2008                                  0.53%    passed    100.00%
+  73  GCF_030169045.1|WP_068946983.1|Photobacterium_damselae|Pdd1608                                  0.53%    passed    100.00%
+  74  GCF_030716765.1|WP_065190614.1|Photobacterium_kishitanii|calba1.1                               0.00%    passed    100.00%
+  75  GCF_037997135.1|WP_340642361.1|Photobacterium_damselae_subsp._piscicida|NH-LM2                  1.58%    passed    100.00%
+  76  GCF_038086615.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|WMD-P1                   0.53%    passed    100.00%
+  77  GCF_050875365.1|WP_068946983.1|Photobacterium_damselae|063                                      0.53%    passed    100.00%
+  78  GCF_052873895.1|WP_068946983.1|Photobacterium_damselae|PNB23_22_8                               0.53%    passed    100.00%
+  79  GCF_052877355.1|WP_068969528.1|Photobacterium_damselae|PNB23_20_2                               0.53%    passed    100.00%
+  80  GCF_052877375.1|WP_068969528.1|Photobacterium_damselae|PNB23_20_10                              0.53%    passed    100.00%
+  81  GCF_052877475.1|WP_068969528.1|Photobacterium_damselae|PBN23_20_6                               0.53%    passed    100.00%
+  82  GCF_052878335.1|WP_068946983.1|Photobacterium_damselae|DNB23_24_5                               0.53%    passed    100.00%
+  83  GCF_052878375.1|WP_068969528.1|Photobacterium_damselae|DNB23_24_2                               0.53%    passed    100.00%
+  84  GCF_053850225.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|SNUABM-JN1               0.53%    passed    100.00%
+  85  GCF_054486525.1|WP_068969528.1|Photobacterium_damselae|BV30                                     0.53%    passed    100.00%
+  86  GCF_056675655.1|WP_106142172.1|Photobacterium_damselae_subsp._damselae|OF2                      0.53%    passed    100.00%
+  87  GCF_057063665.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|SF21                     0.53%    passed    100.00%
+  88  GCF_057922655.1|WP_068946983.1|Photobacterium_damselae|P08                                      0.53%    passed    100.00%
+  89  GCF_057922685.1|WP_068946983.1|Photobacterium_damselae|T08                                      0.53%    passed    100.00%
+  90  GCF_059492265.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|GCUPdd                   0.53%    passed    100.00%
+  91  GCF_059735745.1|WP_068969528.1|Photobacterium_damselae|HNDF01                                   0.53%    passed    100.00%
+  92  GCF_059784805.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|YC211109                 0.53%    passed    100.00%
+  93  GCF_900185565.1|WP_065167963.1|Photobacterium_aquimaris|CECT_9191                               0.00%    passed    100.00%
+  94  GCF_900185625.1|WP_065167963.1|Photobacterium_andalusiense|CECT_9192T                           0.00%    passed    100.00%
+  95  GCF_900454585.1|WP_005301029.1|Photobacterium_damselae|NCTC11647                                0.53%    passed    100.00%
+  96  GCF_900454595.1|WP_068946983.1|Photobacterium_damselae|NCTC11648                                0.53%    passed    100.00%
+  97  GCF_900454675.1|WP_068946983.1|Photobacterium_damselae|NCTC11646                                0.53%    passed    100.00%
+  98  GCF_900537155.1|WP_065167963.1|Photobacterium_sp._Alg240-V54|                                   0.00%    passed    100.00%
+****  TOTAL                                                                                           0.28%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: GCF_003026815.1|WP_005301029.1|Photobacterium_damselae|ATCC_33539 is identical to GCF_000176795.1|WP_005301029.1|Photobacterium_damselae_subsp._damselae_CIP_102761|CIP_102761 but kept for subsequent analysis
+NOTE: GCF_000949965.1|WP_036788792.1|Photobacterium_kishitanii|GCSL-A1-3 is identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200 but kept for subsequent analysis
+NOTE: GCF_000950185.1|WP_045131090.1|Photobacterium_angustum|GCSL-A10-3 is identical to GCF_000950025.1|WP_045131090.1|Photobacterium_angustum|GCSL-A10-1 but kept for subsequent analysis
+NOTE: GCF_000950215.1|WP_045132719.1|Photobacterium_angustum|GCSL-A9 is identical to GCF_000950085.1|WP_045132719.1|Photobacterium_angustum|GCSL-A2-2 but kept for subsequent analysis
+NOTE: GCF_003026955.1|WP_045153999.1|Photobacterium_angustum|A6-1 is identical to GCF_000950155.1|WP_045153999.1|Photobacterium_angustum|GCSL-A6 but kept for subsequent analysis
+NOTE: GCF_001676075.1|WP_065167963.1|Photobacterium_aquimaris|BS-1 is identical to GCF_001676065.1|WP_065167963.1|Photobacterium_aquimaris|BS-2 but kept for subsequent analysis
+NOTE: GCF_003025535.1|WP_065190614.1|Photobacterium_kishitanii|DSMZ_2167 is identical to GCF_001676235.1|WP_065190614.1|Photobacterium_kishitanii|calba1_1 but kept for subsequent analysis
+NOTE: GCF_021765875.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|CSP_DAM2 is identical to GCF_001707815.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|LD-07 but kept for subsequent analysis
+NOTE: GCF_002142615.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|KC-Na-1 is identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71 but kept for subsequent analysis
+NOTE: GCF_003130755.1|WP_106142172.1|Photobacterium_damselae|Phdp_Wu-1 is identical to GCF_003004585.1|WP_106142172.1|Photobacterium_damselae_subsp._damselae|940804-1/1 but kept for subsequent analysis
+NOTE: GCF_021768405.1|WP_237034753.1|Photobacterium_damselae_subsp._damselae|AS-15-3942-7 is identical to GCF_021768365.1|WP_237034753.1|Photobacterium_damselae_subsp._damselae|AS-15-3942-9 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.000659943 secs using 561.3% CPU
+Identifying sites to remove: done in 0.00029397 secs using 587.5% CPU
+NOTE: 73 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: GCF_900454585.1|WP_005301029.1|Photobacterium_damselae|NCTC11647 (identical to GCF_000176795.1|WP_005301029.1|Photobacterium_damselae_subsp._damselae_CIP_102761|CIP_102761) is ignored but added at the end
+NOTE: GCF_000950075.1|WP_036788792.1|Photobacterium_kishitanii|GCSL-A1-2 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_000950095.1|WP_036788792.1|Photobacterium_kishitanii|ATCC_BAA-1194 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_000950135.1|WP_036788792.1|Photobacterium_kishitanii|GCSL-A1-1 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_000950335.1|WP_036788792.1|Photobacterium_kishitanii|GCSL-A1-4 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_001455895.1|WP_036788792.1|Photobacterium_kishitanii|201212X (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_001676215.1|WP_036788792.1|Photobacterium_kishitanii|DSM_2167 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_003025895.1|WP_036788792.1|Photobacterium_kishitanii|ckamo.1.1 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_003025935.1|WP_036788792.1|Photobacterium_kishitanii|FS-7.1 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_003025945.1|WP_036788792.1|Photobacterium_kishitanii|B-421 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_003025975.1|WP_036788792.1|Photobacterium_kishitanii|pjapo.1.1 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_003025995.1|WP_036788792.1|Photobacterium_kishitanii|Og61 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_003026355.1|WP_036788792.1|Photobacterium_kishitanii|ATCC_BAA-1194 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_003026635.1|WP_036788792.1|Photobacterium_kishitanii|FS-8.1 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_003026675.1|WP_036788792.1|Photobacterium_kishitanii|NCIMB_844 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_003026975.1|WP_036788792.1|Photobacterium_kishitanii|A1-3 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_003027035.1|WP_036788792.1|Photobacterium_kishitanii|A1-2 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_003027055.1|WP_036788792.1|Photobacterium_kishitanii|A1-1 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_003027115.1|WP_036788792.1|Photobacterium_kishitanii|A1-4 (identical to GCF_000613045.3|WP_036788792.1|Photobacterium_kishitanii|ANT-2200) is ignored but added at the end
+NOTE: GCF_000950225.1|WP_045131090.1|Photobacterium_angustum|GCSL-A10-2 (identical to GCF_000950025.1|WP_045131090.1|Photobacterium_angustum|GCSL-A10-1) is ignored but added at the end
+NOTE: GCF_003026835.1|WP_045131090.1|Photobacterium_angustum|A10-2 (identical to GCF_000950025.1|WP_045131090.1|Photobacterium_angustum|GCSL-A10-1) is ignored but added at the end
+NOTE: GCF_003026905.1|WP_045131090.1|Photobacterium_angustum|A10-1 (identical to GCF_000950025.1|WP_045131090.1|Photobacterium_angustum|GCSL-A10-1) is ignored but added at the end
+NOTE: GCF_003027075.1|WP_045131090.1|Photobacterium_angustum|A10-3 (identical to GCF_000950025.1|WP_045131090.1|Photobacterium_angustum|GCSL-A10-1) is ignored but added at the end
+NOTE: GCF_003026335.1|WP_045132719.1|Photobacterium_angustum|ATCC_33977 (identical to GCF_000950085.1|WP_045132719.1|Photobacterium_angustum|GCSL-A2-2) is ignored but added at the end
+NOTE: GCF_003026895.1|WP_045132719.1|Photobacterium_angustum|A2-4 (identical to GCF_000950085.1|WP_045132719.1|Photobacterium_angustum|GCSL-A2-2) is ignored but added at the end
+NOTE: GCF_003026935.1|WP_045132719.1|Photobacterium_angustum|A9-1 (identical to GCF_000950085.1|WP_045132719.1|Photobacterium_angustum|GCSL-A2-2) is ignored but added at the end
+NOTE: GCF_003026995.1|WP_045132719.1|Photobacterium_angustum|A2-2 (identical to GCF_000950085.1|WP_045132719.1|Photobacterium_angustum|GCSL-A2-2) is ignored but added at the end
+NOTE: GCF_003027015.1|WP_045132719.1|Photobacterium_angustum|A2-1 (identical to GCF_000950085.1|WP_045132719.1|Photobacterium_angustum|GCSL-A2-2) is ignored but added at the end
+NOTE: GCF_003027095.1|WP_045132719.1|Photobacterium_angustum|A2-3 (identical to GCF_000950085.1|WP_045132719.1|Photobacterium_angustum|GCSL-A2-2) is ignored but added at the end
+NOTE: GCF_003025625.1|WP_065167963.1|Photobacterium_aquimaris|BS2 (identical to GCF_001676065.1|WP_065167963.1|Photobacterium_aquimaris|BS-2) is ignored but added at the end
+NOTE: GCF_003026515.1|WP_065167963.1|Photobacterium_aquimaris|BS1 (identical to GCF_001676065.1|WP_065167963.1|Photobacterium_aquimaris|BS-2) is ignored but added at the end
+NOTE: GCF_900185565.1|WP_065167963.1|Photobacterium_aquimaris|CECT_9191 (identical to GCF_001676065.1|WP_065167963.1|Photobacterium_aquimaris|BS-2) is ignored but added at the end
+NOTE: GCF_900185625.1|WP_065167963.1|Photobacterium_andalusiense|CECT_9192T (identical to GCF_001676065.1|WP_065167963.1|Photobacterium_aquimaris|BS-2) is ignored but added at the end
+NOTE: GCF_900537155.1|WP_065167963.1|Photobacterium_sp._Alg240-V54| (identical to GCF_001676065.1|WP_065167963.1|Photobacterium_aquimaris|BS-2) is ignored but added at the end
+NOTE: GCF_003026655.1|WP_065190614.1|Photobacterium_kishitanii|calba.1.1 (identical to GCF_001676235.1|WP_065190614.1|Photobacterium_kishitanii|calba1_1) is ignored but added at the end
+NOTE: GCF_030716765.1|WP_065190614.1|Photobacterium_kishitanii|calba1.1 (identical to GCF_001676235.1|WP_065190614.1|Photobacterium_kishitanii|calba1_1) is ignored but added at the end
+NOTE: GCF_021766015.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|CSP_DAM1 (identical to GCF_001707815.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|LD-07) is ignored but added at the end
+NOTE: GCF_030168855.1|WP_068969528.1|Photobacterium_damselae|Pdd1411 (identical to GCF_001707815.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|LD-07) is ignored but added at the end
+NOTE: GCF_052877355.1|WP_068969528.1|Photobacterium_damselae|PNB23_20_2 (identical to GCF_001707815.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|LD-07) is ignored but added at the end
+NOTE: GCF_052877375.1|WP_068969528.1|Photobacterium_damselae|PNB23_20_10 (identical to GCF_001707815.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|LD-07) is ignored but added at the end
+NOTE: GCF_052877475.1|WP_068969528.1|Photobacterium_damselae|PBN23_20_6 (identical to GCF_001707815.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|LD-07) is ignored but added at the end
+NOTE: GCF_052878375.1|WP_068969528.1|Photobacterium_damselae|DNB23_24_2 (identical to GCF_001707815.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|LD-07) is ignored but added at the end
+NOTE: GCF_054486525.1|WP_068969528.1|Photobacterium_damselae|BV30 (identical to GCF_001707815.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|LD-07) is ignored but added at the end
+NOTE: GCF_059735745.1|WP_068969528.1|Photobacterium_damselae|HNDF01 (identical to GCF_001707815.1|WP_068969528.1|Photobacterium_damselae_subsp._damselae|LD-07) is ignored but added at the end
+NOTE: GCF_003004505.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|940804-1/2 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_004135105.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|KC-Na-NB1 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_004794735.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|JM-2017 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_008806825.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|80077637 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_009665375.1|WP_068946983.1|Photobacterium_damselae|2012V-1072 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_013377605.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|CDC-1421-81 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_013377775.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|82dy-OG8 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_014042565.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|125dy-OG11 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_014525015.1|WP_068946983.1|Photobacterium_damselae|727-82 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_015602445.1|WP_068946983.1|Photobacterium_damselae|DSM_110634 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_021768425.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|AS-15-0759-2 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_022129485.1|WP_068946983.1|Photobacterium_damselae|Ph7 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_022129505.1|WP_068946983.1|Photobacterium_damselae|Ph4 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_022129605.1|WP_068946983.1|Photobacterium_damselae|Ph3 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_030168795.1|WP_068946983.1|Photobacterium_damselae|Pdd1605 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_030169045.1|WP_068946983.1|Photobacterium_damselae|Pdd1608 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_038086615.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|WMD-P1 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_050875365.1|WP_068946983.1|Photobacterium_damselae|063 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_052873895.1|WP_068946983.1|Photobacterium_damselae|PNB23_22_8 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_052878335.1|WP_068946983.1|Photobacterium_damselae|DNB23_24_5 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_053850225.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|SNUABM-JN1 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_057063665.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|SF21 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_057922655.1|WP_068946983.1|Photobacterium_damselae|P08 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_057922685.1|WP_068946983.1|Photobacterium_damselae|T08 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_059492265.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|GCUPdd (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_059784805.1|WP_068946983.1|Photobacterium_damselae_subsp._damselae|YC211109 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_900454595.1|WP_068946983.1|Photobacterium_damselae|NCTC11648 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_900454675.1|WP_068946983.1|Photobacterium_damselae|NCTC11646 (identical to GCF_001708035.2|WP_068946983.1|Photobacterium_damselae_subsp._damselae|RM-71) is ignored but added at the end
+NOTE: GCF_056675655.1|WP_106142172.1|Photobacterium_damselae_subsp._damselae|OF2 (identical to GCF_003004585.1|WP_106142172.1|Photobacterium_damselae_subsp._damselae|940804-1/1) is ignored but added at the end
+Alignment was printed to results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.uniqueseq.phy
+
+Creating fast initial parsimony tree by random order stepwise addition...
+0.004 seconds, parsimony score: 99 (based on 84 sites)
+Measuring multi-threading efficiency up to 8 CPU cores
+Increase to 10 rounds for branch lengths
+106 trees examined
+Threads: 1 / Time: 8.019 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -3668
+Threads: 2 / Time: 4.915 sec / Speedup: 1.631 / Efficiency: 82% / LogL: -3668
+Threads: 3 / Time: 3.783 sec / Speedup: 2.120 / Efficiency: 71% / LogL: -3668
+Threads: 4 / Time: 3.200 sec / Speedup: 2.506 / Efficiency: 63% / LogL: -3668
+Threads: 5 / Time: 3.305 sec / Speedup: 2.426 / Efficiency: 49% / LogL: -3668
+Determining AUTO threadcount: done in 23.2221 secs using 257% CPU
+BEST NUMBER OF THREADS: 4
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -1690.823
+Optimal log-likelihood: -1690.823
+Proportion of invariable sites: 0.387
+Gamma shape alpha: 0.968
+Parameters optimization took 1 rounds (0.012 sec)
+Time for fast ML tree search: 0.044 seconds
+
+NOTE: ModelFinder requires 5 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 380 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+Akaike Information Criterion:           WAG+F+G4
+Corrected Akaike Information Criterion: WAG+G4
+Bayesian Information Criterion:         WAG+G4
+Best-fit model: WAG+G4 chosen according to BIC
+
+All model information printed to results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.model.gz
+CPU time for ModelFinder: 79.047 seconds (0h:1m:19s)
+Wall-clock time for ModelFinder: 28.028 seconds (0h:0m:28s)
+Generating 1000 samples for ultrafast bootstrap (seed: 411872)...
+
+NOTE: 2 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -1689.364
+2. Current log-likelihood: -1688.768
+Optimal log-likelihood: -1688.749
+Gamma shape alpha: 0.429
+Parameters optimization took 2 rounds (0.029 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.027349 secs using 399.6% CPU
+Computing ML distances took 0.027494 sec (of wall-clock time) 0.109838 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 7.00951e-05 secs using 577.8% CPU
+Constructing RapidNJ tree: done in 0.000540972 secs using 486.2% CPU
+Computing RapidNJ tree took 0.000684 sec (of wall-clock time) 0.004123 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -1688.743
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.034 second
+Computing log-likelihood of 98 initial trees ... 0.334 seconds
+Current best score: -1688.742
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -1688.736
+Iteration 10 / LogL: -1688.736 / Time: 0h:0m:28s
+Iteration 20 / LogL: -1688.736 / Time: 0h:0m:29s
+Finish initializing candidate tree set (19)
+Current best tree score: -1688.736 / CPU time: 1.095
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -1688.740 / Time: 0h:0m:30s (0h:0m:4s left)
+BETTER TREE FOUND at iteration 33: -1688.736
+Iteration 40 / LogL: -1688.739 / Time: 0h:0m:30s (0h:0m:7s left)
+Iteration 50 / LogL: -1688.742 / Time: 0h:0m:31s (0h:0m:6s left)
+Log-likelihood cutoff on original alignment: -1707.508
+Iteration 60 / LogL: -1688.740 / Time: 0h:0m:32s (0h:0m:5s left)
+Iteration 70 / LogL: -1980.222 / Time: 0h:0m:33s (0h:0m:5s left)
+Iteration 80 / LogL: -1688.739 / Time: 0h:0m:34s (0h:0m:4s left)
+Iteration 90 / LogL: -1688.739 / Time: 0h:0m:35s (0h:0m:3s left)
+Iteration 100 / LogL: -1688.741 / Time: 0h:0m:36s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -1709.392
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.992
+Iteration 110 / LogL: -1695.591 / Time: 0h:0m:37s (0h:0m:7s left)
+Iteration 120 / LogL: -1688.741 / Time: 0h:0m:38s (0h:0m:6s left)
+Iteration 130 / LogL: -1688.737 / Time: 0h:0m:39s (0h:0m:6s left)
+TREE SEARCH COMPLETED AFTER 134 ITERATIONS / Time: 0h:0m:39s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -1688.736
+Optimal log-likelihood: -1688.736
+Gamma shape alpha: 0.429
+Parameters optimization took 1 rounds (0.015 sec)
+BEST SCORE FOUND : -1688.736
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+0.066 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.splits.nex
+Total tree length: 0.325
+
+Total number of iterations: 134
+CPU time used for tree search: 45.431 sec (0h:0m:45s)
+Wall-clock time used for tree search: 11.372 sec (0h:0m:11s)
+Total CPU time used: 125.441 sec (0h:2m:5s)
+Total wall-clock time used: 39.644 sec (0h:0m:39s)
+
+Computing bootstrap consensus tree...
+Reading input file results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.splits.nex...
+25 taxa and 260 splits.
+Consensus tree written to results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.contree
+Reading input trees file results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.contree
+Log-likelihood of consensus tree: -1688.752
+
+Analysis results written to: 
+  IQ-TREE report:                results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.iqtree
+  Maximum-likelihood tree:       results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.treefile
+  Likelihood distances:          results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.splits.nex
+  Consensus tree:                results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.contree
+  Screen log file:               results/gene_phylogeny/HDC_IQTREE/Photobacterium_conventional_HDC_primary98.log
+
+Date and Time: Sat Sep 19 21:06:01 2026

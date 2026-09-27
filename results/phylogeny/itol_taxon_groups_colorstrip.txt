@@ -1,0 +1,510 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Taxon group
+COLOR	#000000
+LEGEND_TITLE	Major Photobacterium taxa
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#1F77B4	#FF7F0E	#2CA02C	#D62728	#9467BD	#8C564B	#E377C2	#7F7F7F	#BCBD22	#17BECF	#393B79	#637939	#8C6D31	#843C39	#BDBDBD
+LEGEND_LABELS	P. leiognathi subsp. mandapamensis	P. phosphoreum	P. damselae	P. damselae subsp. damselae	P. angustum	P. kishitanii	Photobacterium sp.	P. carnosum	P. iliopiscarium	P. damselae subsp. piscicida	P. piscicola	P. leiognathi	P. aquimaris	P. swingsii	Other Photobacterium
+STRIP_WIDTH	25
+MARGIN	2
+BORDER_WIDTH	0
+SHOW_INTERNAL	0
+DATA
+GCF_000153265.1	#9467BD	P. angustum
+GCF_000176795.1	#D62728	P. damselae subsp. damselae
+GCF_000196255.1	#BDBDBD	Other Photobacterium
+GCF_000300355.2	#17BECF	P. damselae subsp. piscicida
+GCF_000425165.1	#BDBDBD	Other Photobacterium
+GCF_000509205.1	#637939	P. leiognathi
+GCF_000613045.3	#8C564B	P. kishitanii
+GCF_000808615.1	#BDBDBD	Other Photobacterium
+GCF_000949935.1	#BCBD22	P. iliopiscarium
+GCF_000949955.1	#FF7F0E	P. phosphoreum
+GCF_000949965.1	#8C564B	P. kishitanii
+GCF_000950005.1	#9467BD	P. angustum
+GCF_000950015.1	#9467BD	P. angustum
+GCF_000950025.1	#9467BD	P. angustum
+GCF_000950075.1	#8C564B	P. kishitanii
+GCF_000950085.1	#9467BD	P. angustum
+GCF_000950095.1	#8C564B	P. kishitanii
+GCF_000950135.1	#8C564B	P. kishitanii
+GCF_000950155.1	#9467BD	P. angustum
+GCF_000950185.1	#9467BD	P. angustum
+GCF_000950215.1	#9467BD	P. angustum
+GCF_000950225.1	#9467BD	P. angustum
+GCF_000950255.1	#9467BD	P. angustum
+GCF_000950275.1	#9467BD	P. angustum
+GCF_000950335.1	#8C564B	P. kishitanii
+GCF_000950355.1	#9467BD	P. angustum
+GCF_000950375.1	#9467BD	P. angustum
+GCF_000950415.1	#637939	P. leiognathi
+GCF_000950435.1	#637939	P. leiognathi
+GCF_000972145.1	#BDBDBD	Other Photobacterium
+GCF_001029435.1	#BDBDBD	Other Photobacterium
+GCF_001029445.1	#BDBDBD	Other Photobacterium
+GCF_001029455.1	#BDBDBD	Other Photobacterium
+GCF_001455895.1	#8C564B	P. kishitanii
+GCF_001557755.1	#637939	P. leiognathi
+GCF_001558075.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_001558115.1	#8C6D31	P. aquimaris
+GCF_001650345.1	#BDBDBD	Other Photobacterium
+GCF_001676065.1	#8C6D31	P. aquimaris
+GCF_001676075.1	#8C6D31	P. aquimaris
+GCF_001676085.1	#8C6D31	P. aquimaris
+GCF_001676135.1	#FF7F0E	P. phosphoreum
+GCF_001676145.1	#2CA02C	P. damselae
+GCF_001676195.1	#FF7F0E	P. phosphoreum
+GCF_001676215.1	#8C564B	P. kishitanii
+GCF_001676235.1	#8C564B	P. kishitanii
+GCF_001676275.1	#FF7F0E	P. phosphoreum
+GCF_001707815.1	#D62728	P. damselae subsp. damselae
+GCF_001708035.2	#D62728	P. damselae subsp. damselae
+GCF_001729115.1	#D62728	P. damselae subsp. damselae
+GCF_002142615.1	#D62728	P. damselae subsp. damselae
+GCF_002157645.1	#17BECF	P. damselae subsp. piscicida
+GCF_002356235.1	#17BECF	P. damselae subsp. piscicida
+GCF_002849605.1	#7F7F7F	P. carnosum
+GCF_002954455.1	#8C6D31	P. aquimaris
+GCF_002954615.1	#9467BD	P. angustum
+GCF_002954725.1	#FF7F0E	P. phosphoreum
+GCF_003004505.1	#D62728	P. damselae subsp. damselae
+GCF_003004585.1	#D62728	P. damselae subsp. damselae
+GCF_003004595.1	#D62728	P. damselae subsp. damselae
+GCF_003004605.1	#D62728	P. damselae subsp. damselae
+GCF_003025415.1	#8C6D31	P. aquimaris
+GCF_003025425.1	#BCBD22	P. iliopiscarium
+GCF_003025455.1	#BCBD22	P. iliopiscarium
+GCF_003025475.1	#E377C2	Photobacterium sp.
+GCF_003025495.1	#BDBDBD	Other Photobacterium
+GCF_003025535.1	#8C564B	P. kishitanii
+GCF_003025555.1	#BDBDBD	Other Photobacterium
+GCF_003025575.1	#BDBDBD	Other Photobacterium
+GCF_003025595.1	#BDBDBD	Other Photobacterium
+GCF_003025615.1	#BDBDBD	Other Photobacterium
+GCF_003025625.1	#8C6D31	P. aquimaris
+GCF_003025655.1	#FF7F0E	P. phosphoreum
+GCF_003025675.1	#2CA02C	P. damselae
+GCF_003025695.1	#FF7F0E	P. phosphoreum
+GCF_003025715.1	#FF7F0E	P. phosphoreum
+GCF_003025735.1	#FF7F0E	P. phosphoreum
+GCF_003025755.1	#FF7F0E	P. phosphoreum
+GCF_003025775.1	#FF7F0E	P. phosphoreum
+GCF_003025795.1	#FF7F0E	P. phosphoreum
+GCF_003025815.1	#FF7F0E	P. phosphoreum
+GCF_003025835.1	#FF7F0E	P. phosphoreum
+GCF_003025855.1	#FF7F0E	P. phosphoreum
+GCF_003025875.1	#FF7F0E	P. phosphoreum
+GCF_003025895.1	#8C564B	P. kishitanii
+GCF_003025935.1	#8C564B	P. kishitanii
+GCF_003025945.1	#8C564B	P. kishitanii
+GCF_003025975.1	#8C564B	P. kishitanii
+GCF_003025995.1	#8C564B	P. kishitanii
+GCF_003026015.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_003026055.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_003026075.1	#E377C2	Photobacterium sp.
+GCF_003026095.1	#E377C2	Photobacterium sp.
+GCF_003026105.1	#E377C2	Photobacterium sp.
+GCF_003026135.1	#E377C2	Photobacterium sp.
+GCF_003026155.1	#E377C2	Photobacterium sp.
+GCF_003026165.1	#E377C2	Photobacterium sp.
+GCF_003026175.1	#E377C2	Photobacterium sp.
+GCF_003026215.1	#BDBDBD	Other Photobacterium
+GCF_003026235.1	#637939	P. leiognathi
+GCF_003026245.1	#2CA02C	P. damselae
+GCF_003026275.1	#FF7F0E	P. phosphoreum
+GCF_003026285.1	#BDBDBD	Other Photobacterium
+GCF_003026315.1	#637939	P. leiognathi
+GCF_003026335.1	#9467BD	P. angustum
+GCF_003026355.1	#8C564B	P. kishitanii
+GCF_003026365.1	#9467BD	P. angustum
+GCF_003026395.1	#BCBD22	P. iliopiscarium
+GCF_003026405.1	#BCBD22	P. iliopiscarium
+GCF_003026435.1	#843C39	P. swingsii
+GCF_003026475.1	#BDBDBD	Other Photobacterium
+GCF_003026495.1	#BDBDBD	Other Photobacterium
+GCF_003026515.1	#8C6D31	P. aquimaris
+GCF_003026535.1	#FF7F0E	P. phosphoreum
+GCF_003026545.1	#FF7F0E	P. phosphoreum
+GCF_003026575.1	#FF7F0E	P. phosphoreum
+GCF_003026595.1	#FF7F0E	P. phosphoreum
+GCF_003026615.1	#FF7F0E	P. phosphoreum
+GCF_003026635.1	#8C564B	P. kishitanii
+GCF_003026655.1	#8C564B	P. kishitanii
+GCF_003026675.1	#8C564B	P. kishitanii
+GCF_003026695.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_003026715.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_003026735.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_003026755.1	#E377C2	Photobacterium sp.
+GCF_003026775.1	#2CA02C	P. damselae
+GCF_003026815.1	#2CA02C	P. damselae
+GCF_003026835.1	#9467BD	P. angustum
+GCF_003026855.1	#9467BD	P. angustum
+GCF_003026875.1	#BCBD22	P. iliopiscarium
+GCF_003026895.1	#9467BD	P. angustum
+GCF_003026905.1	#9467BD	P. angustum
+GCF_003026935.1	#9467BD	P. angustum
+GCF_003026955.1	#9467BD	P. angustum
+GCF_003026975.1	#8C564B	P. kishitanii
+GCF_003026995.1	#9467BD	P. angustum
+GCF_003027015.1	#9467BD	P. angustum
+GCF_003027035.1	#8C564B	P. kishitanii
+GCF_003027055.1	#8C564B	P. kishitanii
+GCF_003027075.1	#9467BD	P. angustum
+GCF_003027095.1	#9467BD	P. angustum
+GCF_003027115.1	#8C564B	P. kishitanii
+GCF_003028875.1	#FF7F0E	P. phosphoreum
+GCF_003130755.1	#2CA02C	P. damselae
+GCF_003355625.1	#2CA02C	P. damselae
+GCF_004135105.1	#D62728	P. damselae subsp. damselae
+GCF_004363665.1	#BDBDBD	Other Photobacterium
+GCF_004683985.2	#17BECF	P. damselae subsp. piscicida
+GCF_004794735.1	#D62728	P. damselae subsp. damselae
+GCF_005048985.1	#17BECF	P. damselae subsp. piscicida
+GCF_005819805.1	#D62728	P. damselae subsp. damselae
+GCF_005819825.1	#D62728	P. damselae subsp. damselae
+GCF_005819835.1	#D62728	P. damselae subsp. damselae
+GCF_005819845.1	#D62728	P. damselae subsp. damselae
+GCF_005819885.1	#D62728	P. damselae subsp. damselae
+GCF_006124795.1	#2CA02C	P. damselae
+GCF_006124835.1	#2CA02C	P. damselae
+GCF_006124915.1	#2CA02C	P. damselae
+GCF_006297395.2	#D62728	P. damselae subsp. damselae
+GCF_008806795.1	#D62728	P. damselae subsp. damselae
+GCF_008806825.1	#D62728	P. damselae subsp. damselae
+GCF_009389665.1	#7F7F7F	P. carnosum
+GCF_009665375.1	#2CA02C	P. damselae
+GCF_009763125.1	#2CA02C	P. damselae
+GCF_009874335.1	#BDBDBD	Other Photobacterium
+GCF_009904675.1	#BDBDBD	Other Photobacterium
+GCF_013371045.1	#D62728	P. damselae subsp. damselae
+GCF_013371545.1	#D62728	P. damselae subsp. damselae
+GCF_013377605.1	#D62728	P. damselae subsp. damselae
+GCF_013377775.1	#D62728	P. damselae subsp. damselae
+GCF_013377875.1	#D62728	P. damselae subsp. damselae
+GCF_014042565.1	#D62728	P. damselae subsp. damselae
+GCF_014525015.1	#2CA02C	P. damselae
+GCF_014525275.1	#2CA02C	P. damselae
+GCF_014652075.1	#BDBDBD	Other Photobacterium
+GCA_014775675.1	#17BECF	P. damselae subsp. piscicida
+GCF_014775695.1	#17BECF	P. damselae subsp. piscicida
+GCF_014930975.1	#D62728	P. damselae subsp. damselae
+GCF_015602445.1	#2CA02C	P. damselae
+GCF_017329545.1	#BDBDBD	Other Photobacterium
+GCF_019084105.1	#BDBDBD	Other Photobacterium
+GCF_019781095.1	#7F7F7F	P. carnosum
+GCF_021236585.1	#FF7F0E	P. phosphoreum
+GCF_021236605.1	#BCBD22	P. iliopiscarium
+GCF_021236625.1	#FF7F0E	P. phosphoreum
+GCF_021236645.1	#FF7F0E	P. phosphoreum
+GCF_021236655.1	#FF7F0E	P. phosphoreum
+GCF_021236685.1	#FF7F0E	P. phosphoreum
+GCF_021236705.1	#FF7F0E	P. phosphoreum
+GCF_021236725.1	#FF7F0E	P. phosphoreum
+GCF_021236745.1	#FF7F0E	P. phosphoreum
+GCF_021236765.1	#7F7F7F	P. carnosum
+GCF_021236785.1	#7F7F7F	P. carnosum
+GCF_021236805.1	#7F7F7F	P. carnosum
+GCF_021236825.1	#7F7F7F	P. carnosum
+GCF_021236845.1	#7F7F7F	P. carnosum
+GCF_021236865.1	#7F7F7F	P. carnosum
+GCF_021236875.1	#7F7F7F	P. carnosum
+GCF_021236905.1	#7F7F7F	P. carnosum
+GCF_021236925.1	#7F7F7F	P. carnosum
+GCF_021236945.1	#7F7F7F	P. carnosum
+GCF_021236965.1	#7F7F7F	P. carnosum
+GCF_021236975.1	#7F7F7F	P. carnosum
+GCF_021236985.1	#7F7F7F	P. carnosum
+GCF_021237025.1	#FF7F0E	P. phosphoreum
+GCF_021237045.1	#FF7F0E	P. phosphoreum
+GCF_021237065.1	#BCBD22	P. iliopiscarium
+GCF_021432065.1	#E377C2	Photobacterium sp.
+GCF_021504545.1	#FF7F0E	P. phosphoreum
+GCF_021504575.1	#BCBD22	P. iliopiscarium
+GCF_021504615.1	#FF7F0E	P. phosphoreum
+GCF_021504635.1	#FF7F0E	P. phosphoreum
+GCF_021504655.1	#7F7F7F	P. carnosum
+GCF_021504665.1	#7F7F7F	P. carnosum
+GCF_021504695.1	#7F7F7F	P. carnosum
+GCF_021504715.1	#7F7F7F	P. carnosum
+GCF_021765875.1	#D62728	P. damselae subsp. damselae
+GCF_021766015.1	#D62728	P. damselae subsp. damselae
+GCF_021768305.1	#D62728	P. damselae subsp. damselae
+GCF_021768345.1	#D62728	P. damselae subsp. damselae
+GCF_021768365.1	#D62728	P. damselae subsp. damselae
+GCF_021768385.1	#D62728	P. damselae subsp. damselae
+GCF_021768405.1	#D62728	P. damselae subsp. damselae
+GCF_021768425.1	#D62728	P. damselae subsp. damselae
+GCF_022129445.1	#E377C2	Photobacterium sp.
+GCF_022129465.1	#E377C2	Photobacterium sp.
+GCF_022129485.1	#2CA02C	P. damselae
+GCF_022129505.1	#2CA02C	P. damselae
+GCF_022129605.1	#2CA02C	P. damselae
+GCF_022129615.1	#637939	P. leiognathi
+GCF_022129675.1	#2CA02C	P. damselae
+GCF_022398535.1	#2CA02C	P. damselae
+GCF_022398555.1	#2CA02C	P. damselae
+GCF_023151555.2	#E377C2	Photobacterium sp.
+GCF_023973125.1	#2CA02C	P. damselae
+GCF_024346675.1	#BDBDBD	Other Photobacterium
+GCF_024346715.1	#843C39	P. swingsii
+GCF_024357955.1	#BDBDBD	Other Photobacterium
+GCF_024380015.1	#BDBDBD	Other Photobacterium
+GCF_024494545.1	#BDBDBD	Other Photobacterium
+GCF_024529955.1	#BDBDBD	Other Photobacterium
+GCF_025398175.1	#E377C2	Photobacterium sp.
+GCF_026001825.1	#D62728	P. damselae subsp. damselae
+GCF_027923345.1	#7F7F7F	P. carnosum
+GCF_028439335.1	#2CA02C	P. damselae
+GCF_028621875.1	#E377C2	Photobacterium sp.
+GCF_030168795.1	#2CA02C	P. damselae
+GCF_030168835.1	#2CA02C	P. damselae
+GCF_030168855.1	#2CA02C	P. damselae
+GCF_030169005.1	#2CA02C	P. damselae
+GCF_030169025.1	#2CA02C	P. damselae
+GCF_030169045.1	#2CA02C	P. damselae
+GCF_030547045.1	#BDBDBD	Other Photobacterium
+GCF_030547825.1	#BDBDBD	Other Photobacterium
+GCF_030685295.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030685315.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030685335.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030685355.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030685375.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030685395.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030685415.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030685435.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030685455.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030685475.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030685515.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030685535.1	#637939	P. leiognathi
+GCF_030685555.1	#BDBDBD	Other Photobacterium
+GCF_030685575.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030716725.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030716765.1	#8C564B	P. kishitanii
+GCF_030716825.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030716845.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030716865.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030716875.1	#637939	P. leiognathi
+GCF_030716925.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030716945.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030716965.1	#637939	P. leiognathi
+GCF_030716975.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_030716995.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033446985.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447015.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447345.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447365.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447385.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447395.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447415.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447445.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447465.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447495.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447505.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447565.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447605.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447645.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447665.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447685.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447695.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447745.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447755.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447825.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447845.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447865.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447905.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447925.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447945.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447965.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033447985.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448005.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448025.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448045.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448065.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448085.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448105.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448125.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448145.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448165.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448185.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448215.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448245.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448265.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448285.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448305.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448325.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448345.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448365.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448385.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448405.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448425.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448445.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448465.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448485.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448505.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448525.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448545.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448555.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448585.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448605.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448625.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448645.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448665.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448685.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033448705.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033458845.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_033458905.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_036040035.1	#E377C2	Photobacterium sp.
+GCF_036040095.1	#BDBDBD	Other Photobacterium
+GCF_036040135.1	#BDBDBD	Other Photobacterium
+GCF_036040195.1	#393B79	P. piscicola
+GCF_036040205.1	#393B79	P. piscicola
+GCF_036040255.1	#393B79	P. piscicola
+GCF_036040395.1	#393B79	P. piscicola
+GCF_036409375.1	#E377C2	Photobacterium sp.
+GCF_037389125.1	#E377C2	Photobacterium sp.
+GCF_037997135.1	#17BECF	P. damselae subsp. piscicida
+GCF_038086615.1	#D62728	P. damselae subsp. damselae
+GCF_038086725.1	#D62728	P. damselae subsp. damselae
+GCF_038086915.1	#D62728	P. damselae subsp. damselae
+GCF_038519165.1	#E377C2	Photobacterium sp.
+GCF_041439435.1	#843C39	P. swingsii
+GCF_041466445.1	#843C39	P. swingsii
+GCF_042430005.1	#BDBDBD	Other Photobacterium
+GCF_043105905.1	#2CA02C	P. damselae
+GCF_043106595.1	#2CA02C	P. damselae
+GCF_043419485.1	#393B79	P. piscicola
+GCF_043641185.1	#393B79	P. piscicola
+GCF_046058925.1	#393B79	P. piscicola
+GCF_048537445.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_048537455.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_048537465.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_048537505.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_048537515.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_048537525.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_048835935.1	#17BECF	P. damselae subsp. piscicida
+GCF_049315015.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_049563835.1	#2CA02C	P. damselae
+GCF_050336695.1	#BDBDBD	Other Photobacterium
+GCF_050336715.1	#BDBDBD	Other Photobacterium
+GCF_050336815.1	#BDBDBD	Other Photobacterium
+GCF_050337005.1	#BDBDBD	Other Photobacterium
+GCF_050337045.1	#BDBDBD	Other Photobacterium
+GCF_050337655.1	#843C39	P. swingsii
+GCF_050337795.1	#9467BD	P. angustum
+GCF_050337985.1	#BDBDBD	Other Photobacterium
+GCF_050338095.1	#BDBDBD	Other Photobacterium
+GCF_050338335.1	#BDBDBD	Other Photobacterium
+GCF_050338375.1	#BDBDBD	Other Photobacterium
+GCF_050338475.1	#843C39	P. swingsii
+GCF_050338655.1	#BDBDBD	Other Photobacterium
+GCF_050338715.1	#BDBDBD	Other Photobacterium
+GCF_050875365.1	#2CA02C	P. damselae
+GCF_051046865.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_051046875.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_052805155.1	#BDBDBD	Other Photobacterium
+GCF_052873695.1	#843C39	P. swingsii
+GCF_052873755.1	#843C39	P. swingsii
+GCF_052873815.1	#E377C2	Photobacterium sp.
+GCF_052873895.1	#2CA02C	P. damselae
+GCF_052877355.1	#2CA02C	P. damselae
+GCF_052877375.1	#2CA02C	P. damselae
+GCF_052877475.1	#2CA02C	P. damselae
+GCF_052877815.1	#2CA02C	P. damselae
+GCF_052877935.1	#2CA02C	P. damselae
+GCF_052878195.1	#2CA02C	P. damselae
+GCF_052878215.1	#2CA02C	P. damselae
+GCF_052878295.1	#2CA02C	P. damselae
+GCF_052878335.1	#2CA02C	P. damselae
+GCF_052878375.1	#2CA02C	P. damselae
+GCF_052878815.1	#2CA02C	P. damselae
+GCF_052879315.1	#2CA02C	P. damselae
+GCF_053005025.1	#2CA02C	P. damselae
+GCF_053202905.1	#17BECF	P. damselae subsp. piscicida
+GCF_053850225.1	#D62728	P. damselae subsp. damselae
+GCF_054486505.1	#2CA02C	P. damselae
+GCF_054486525.1	#2CA02C	P. damselae
+GCF_054486545.1	#2CA02C	P. damselae
+GCF_055456455.1	#9467BD	P. angustum
+GCF_056234105.1	#17BECF	P. damselae subsp. piscicida
+GCF_056234175.1	#17BECF	P. damselae subsp. piscicida
+GCF_056643155.1	#D62728	P. damselae subsp. damselae
+GCF_056675655.1	#D62728	P. damselae subsp. damselae
+GCF_056836685.1	#D62728	P. damselae subsp. damselae
+GCF_057063665.1	#D62728	P. damselae subsp. damselae
+GCF_057922655.1	#2CA02C	P. damselae
+GCF_057922685.1	#2CA02C	P. damselae
+GCF_058072825.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_058072835.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_058072865.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_058072885.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_058072895.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_058072915.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_058072945.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_058073005.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_058273185.1	#17BECF	P. damselae subsp. piscicida
+GCF_058410825.1	#17BECF	P. damselae subsp. piscicida
+GCF_059492265.1	#D62728	P. damselae subsp. damselae
+GCF_059623475.1	#BDBDBD	Other Photobacterium
+GCF_059727865.1	#D62728	P. damselae subsp. damselae
+GCF_059727875.1	#D62728	P. damselae subsp. damselae
+GCF_059727885.1	#D62728	P. damselae subsp. damselae
+GCF_059727895.1	#D62728	P. damselae subsp. damselae
+GCF_059735745.1	#2CA02C	P. damselae
+GCF_059740845.1	#D62728	P. damselae subsp. damselae
+GCF_059740915.1	#D62728	P. damselae subsp. damselae
+GCF_059740945.1	#D62728	P. damselae subsp. damselae
+GCF_059749295.1	#FF7F0E	P. phosphoreum
+GCF_059749375.1	#FF7F0E	P. phosphoreum
+GCF_059749395.1	#FF7F0E	P. phosphoreum
+GCF_059761285.1	#393B79	P. piscicola
+GCF_059761325.1	#393B79	P. piscicola
+GCF_059761345.1	#393B79	P. piscicola
+GCF_059761365.1	#393B79	P. piscicola
+GCF_059761385.1	#393B79	P. piscicola
+GCF_059761395.1	#393B79	P. piscicola
+GCF_059761425.1	#FF7F0E	P. phosphoreum
+GCF_059761445.1	#FF7F0E	P. phosphoreum
+GCF_059761455.1	#FF7F0E	P. phosphoreum
+GCF_059761485.1	#FF7F0E	P. phosphoreum
+GCF_059761505.1	#FF7F0E	P. phosphoreum
+GCF_059761525.1	#FF7F0E	P. phosphoreum
+GCF_059761545.1	#FF7F0E	P. phosphoreum
+GCF_059761565.1	#FF7F0E	P. phosphoreum
+GCF_059761585.1	#FF7F0E	P. phosphoreum
+GCF_059761605.1	#FF7F0E	P. phosphoreum
+GCF_059761625.1	#FF7F0E	P. phosphoreum
+GCF_059761645.1	#FF7F0E	P. phosphoreum
+GCF_059761665.1	#FF7F0E	P. phosphoreum
+GCF_059761705.1	#FF7F0E	P. phosphoreum
+GCF_059761725.1	#FF7F0E	P. phosphoreum
+GCF_059761745.1	#FF7F0E	P. phosphoreum
+GCF_059761755.1	#BCBD22	P. iliopiscarium
+GCF_059761785.1	#BCBD22	P. iliopiscarium
+GCF_059761805.1	#BCBD22	P. iliopiscarium
+GCF_059761825.1	#BCBD22	P. iliopiscarium
+GCF_059761845.1	#BCBD22	P. iliopiscarium
+GCF_059761855.1	#BCBD22	P. iliopiscarium
+GCF_059761885.1	#BCBD22	P. iliopiscarium
+GCF_059761905.1	#BCBD22	P. iliopiscarium
+GCF_059761915.1	#BCBD22	P. iliopiscarium
+GCF_059784805.1	#D62728	P. damselae subsp. damselae
+GCF_059920555.1	#BDBDBD	Other Photobacterium
+GCF_059941365.1	#E377C2	Photobacterium sp.
+GCF_060143805.1	#1F77B4	P. leiognathi subsp. mandapamensis
+GCF_900166965.1	#393B79	P. piscicola
+GCF_900166975.1	#BDBDBD	Other Photobacterium
+GCF_900185565.1	#8C6D31	P. aquimaris
+GCF_900185615.1	#BDBDBD	Other Photobacterium
+GCF_900185625.1	#BDBDBD	Other Photobacterium
+GCF_900454585.1	#2CA02C	P. damselae
+GCF_900454595.1	#2CA02C	P. damselae
+GCF_900454675.1	#2CA02C	P. damselae
+GCF_900537155.1	#E377C2	Photobacterium sp.
+GCF_947498665.1	#BDBDBD	Other Photobacterium
+GCF_949787665.1	#FF7F0E	P. phosphoreum
+GCF_963886165.1	#BDBDBD	Other Photobacterium
+GCF_965118505.1	#FF7F0E	P. phosphoreum
+GCF_965118525.1	#FF7F0E	P. phosphoreum
+GCF_965119175.1	#FF7F0E	P. phosphoreum
+GCF_965119195.1	#FF7F0E	P. phosphoreum

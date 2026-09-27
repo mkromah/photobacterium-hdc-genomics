@@ -1,0 +1,18 @@
+Photobacterium taxon x HDC-system association
+==================================================
+
+Genomes: 497
+Taxon groups: 15
+HDC-system states: 4
+
+Pearson chi-square: 509.052129
+Degrees of freedom: 42
+Cramer's V: 0.584309
+
+Expected cells <5: 38/60 (63.33%)
+Expected cells <1: 20/60 (33.33%)
+
+Monte Carlo permutations: 100000
+Random seed: 20260919
+Permuted statistics >= observed: 0
+Monte Carlo p-value: 9.999900001e-06

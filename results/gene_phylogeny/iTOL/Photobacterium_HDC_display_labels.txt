@@ -1,0 +1,101 @@
+LABELS
+SEPARATOR TAB
+DATA
+GCF_000176795.1	P. damselae subsp. damselae CIP 102761
+GCF_000613045.3	P. kishitanii ANT-2200
+GCF_000950095.1	P. kishitanii ATCC BAA-1194
+GCF_003026675.1	P. kishitanii NCIMB 844
+GCF_003026635.1	P. kishitanii FS-8.1
+GCF_003025945.1	P. kishitanii B-421
+GCF_003026355.1	P. kishitanii ATCC BAA-1194
+GCF_003025975.1	P. kishitanii pjapo.1.1
+GCF_001455895.1	P. kishitanii 201212X
+GCF_003025895.1	P. kishitanii ckamo.1.1
+GCF_003027115.1	P. kishitanii A1-4
+GCF_001676215.1	P. kishitanii DSM 2167
+GCF_000950135.1	P. kishitanii GCSL-A1-1
+GCF_003026975.1	P. kishitanii A1-3
+GCF_003027035.1	P. kishitanii A1-2
+GCF_000950075.1	P. kishitanii GCSL-A1-2
+GCF_003025935.1	P. kishitanii FS-7.1
+GCF_003027055.1	P. kishitanii A1-1
+GCF_003025995.1	P. kishitanii Og61
+GCF_000950335.1	P. kishitanii GCSL-A1-4
+GCF_000949965.1	P. kishitanii GCSL-A1-3
+GCF_001676235.1	P. kishitanii calba1 1
+GCF_003026655.1	P. kishitanii calba.1.1
+GCF_030716765.1	P. kishitanii calba1.1
+GCF_003025535.1	P. kishitanii DSMZ 2167
+GCF_001676065.1	P. aquimaris BS-2
+GCF_900537155.1	P. sp. Alg240-V54
+GCF_003026515.1	P. aquimaris BS1
+GCF_900185625.1	P. andalusiense CECT 9192T
+GCF_900185565.1	P. aquimaris CECT 9191
+GCF_003025625.1	P. aquimaris BS2
+GCF_001676075.1	P. aquimaris BS-1
+GCF_000950025.1	P. angustum GCSL-A10-1
+GCF_003027075.1	P. angustum A10-3
+GCF_000950225.1	P. angustum GCSL-A10-2
+GCF_003026835.1	P. angustum A10-2
+GCF_003026905.1	P. angustum A10-1
+GCF_000950185.1	P. angustum GCSL-A10-3
+GCF_000950085.1	P. angustum GCSL-A2-2
+GCF_003026895.1	P. angustum A2-4
+GCF_003027015.1	P. angustum A2-1
+GCF_003026995.1	P. angustum A2-2
+GCF_003026935.1	P. angustum A9-1
+GCF_003026335.1	P. angustum ATCC 33977
+GCF_003027095.1	P. angustum A2-3
+GCF_000950215.1	P. angustum GCSL-A9
+GCF_000950155.1	P. angustum GCSL-A6
+GCF_003026955.1	P. angustum A6-1
+GCF_030169005.1	P. damselae Pdd2008
+GCF_021768345.1	P. damselae subsp. damselae AS-16-0963-1
+GCF_001708035.2	P. damselae subsp. damselae RM-71
+GCF_014525015.1	P. damselae 727-82
+GCF_003004505.1	P. damselae subsp. damselae 940804-1/2
+GCF_050875365.1	P. damselae 063
+GCF_059784805.1	P. damselae subsp. damselae YC211109
+GCF_013377775.1	P. damselae subsp. damselae 82dy-OG8
+GCF_057063665.1	P. damselae subsp. damselae SF21
+GCF_022129605.1	P. damselae Ph3
+GCF_900454675.1	P. damselae NCTC11646
+GCF_053850225.1	P. damselae subsp. damselae SNUABM-JN1
+GCF_022129505.1	P. damselae Ph4
+GCF_030169045.1	P. damselae Pdd1608
+GCF_052878335.1	P. damselae DNB23 24 5
+GCF_021768425.1	P. damselae subsp. damselae AS-15-0759-2
+GCF_004794735.1	P. damselae subsp. damselae JM-2017
+GCF_900454595.1	P. damselae NCTC11648
+GCF_004135105.1	P. damselae subsp. damselae KC-Na-NB1
+GCF_009665375.1	P. damselae 2012V-1072
+GCF_059492265.1	P. damselae subsp. damselae GCUPdd
+GCF_038086615.1	P. damselae subsp. damselae WMD-P1
+GCF_052873895.1	P. damselae PNB23 22 8
+GCF_030168795.1	P. damselae Pdd1605
+GCF_008806825.1	P. damselae subsp. damselae 80077637
+GCF_022129485.1	P. damselae Ph7
+GCF_057922655.1	P. damselae P08
+GCF_057922685.1	P. damselae T08
+GCF_014042565.1	P. damselae subsp. damselae 125dy-OG11
+GCF_015602445.1	P. damselae DSM 110634
+GCF_013377605.1	P. damselae subsp. damselae CDC-1421-81
+GCF_002142615.1	P. damselae subsp. damselae KC-Na-1
+GCF_037997135.1	P. damselae subsp. piscicida NH-LM2
+GCF_001707815.1	P. damselae subsp. damselae LD-07
+GCF_052877475.1	P. damselae PBN23 20 6
+GCF_059735745.1	P. damselae HNDF01
+GCF_052877375.1	P. damselae PNB23 20 10
+GCF_021766015.1	P. damselae subsp. damselae CSP DAM1
+GCF_052878375.1	P. damselae DNB23 24 2
+GCF_052877355.1	P. damselae PNB23 20 2
+GCF_030168855.1	P. damselae Pdd1411
+GCF_054486525.1	P. damselae BV30
+GCF_021765875.1	P. damselae subsp. damselae CSP DAM2
+GCF_003004585.1	P. damselae subsp. damselae 940804-1/1
+GCF_056675655.1	P. damselae subsp. damselae OF2
+GCF_003130755.1	P. damselae Phdp Wu-1
+GCF_021768365.1	P. damselae subsp. damselae AS-15-3942-9
+GCF_021768405.1	P. damselae subsp. damselae AS-15-3942-7
+GCF_003026815.1	P. damselae ATCC 33539
+GCF_900454585.1	P. damselae NCTC11647

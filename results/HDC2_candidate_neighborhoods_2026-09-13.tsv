@@ -1,0 +1,37 @@
+Assembly Accession	Organism Name	Strain	Protein	pident	qcovs	has_hisS_nearby	has_transporter_nearby	HDC2_cluster_like
+GCF_000613045.3	Photobacterium kishitanii	ANT-2200	WP_054262195.1	94.286	100	True	True	True
+GCF_001676135.1	Photobacterium phosphoreum	AK-3	WP_065193859.1	100.0	100	True	True	True
+GCF_001676195.1	Photobacterium phosphoreum	FS1_1	WP_065194415.1	99.87	100	True	True	True
+GCF_001676275.1	Photobacterium phosphoreum	FS3_1	WP_202908000.1	97.405	85	True	True	True
+GCF_003025775.1	Photobacterium phosphoreum	FS-4.2	WP_107303299.1	99.74	100	True	True	True
+GCF_003025795.1	Photobacterium phosphoreum	FS-2.1	WP_065194415.1	99.87	100	True	True	True
+GCF_003025815.1	Photobacterium phosphoreum	FS-1.2	WP_338090079.1	99.607	99	True	False	False
+GCF_003025855.1	Photobacterium phosphoreum	FS-1.1	WP_065194415.1	99.87	100	True	True	True
+GCF_003025875.1	Photobacterium phosphoreum	AK-8	WP_338133856.1	89.136	99	True	False	False
+GCF_003025935.1	Photobacterium kishitanii	FS-7.1	WP_107226104.1	94.026	100	True	True	True
+GCF_003025995.1	Photobacterium kishitanii	Og61	WP_054262195.1	94.286	100	True	True	True
+GCF_003026545.1	Photobacterium phosphoreum	FS-2.3	WP_065194415.1	99.87	100	True	True	True
+GCF_003026615.1	Photobacterium phosphoreum	AK-3	WP_065193859.1	100.0	100	True	True	True
+GCF_021236685.1	Photobacterium phosphoreum	TMW2.2130	WP_065194415.1	99.87	100	True	True	True
+GCF_021236705.1	Photobacterium phosphoreum	TMW2.2126	WP_232573904.1	99.74	100	True	True	True
+GCF_021236805.1	Photobacterium carnosum	TMW2.2187	WP_232575933.1	97.013	100	True	True	True
+GCF_021237025.1	Photobacterium phosphoreum	TMW22033	WP_065194415.1	99.87	100	True	True	True
+GCF_021237045.1	Photobacterium phosphoreum	TMW22034	WP_065194415.1	99.87	100	True	True	True
+GCF_036040135.1	Photobacterium toruni	S2MW2	WP_327777331.1	97.659	99	True	True	True
+GCF_059749295.1	Photobacterium phosphoreum		WP_107303299.1	99.74	100	True	True	True
+GCF_059749375.1	Photobacterium phosphoreum		WP_065194415.1	99.87	100	True	True	True
+GCF_059761445.1	Photobacterium phosphoreum		WP_107303299.1	99.74	100	True	True	True
+GCF_059761485.1	Photobacterium phosphoreum		WP_107303299.1	99.74	100	True	True	True
+GCF_059761525.1	Photobacterium phosphoreum		WP_107303299.1	99.74	100	True	True	True
+GCF_059761545.1	Photobacterium phosphoreum		WP_498207788.1	99.61	100	True	True	True
+GCF_059761565.1	Photobacterium phosphoreum		WP_065194415.1	99.87	100	True	True	True
+GCF_059761605.1	Photobacterium phosphoreum		WP_498163305.1	99.733	97	True	False	False
+GCF_059761625.1	Photobacterium phosphoreum		WP_065194415.1	99.87	100	True	True	True
+GCF_059761645.1	Photobacterium phosphoreum		WP_065194415.1	99.87	100	True	False	False
+GCF_059761705.1	Photobacterium phosphoreum		WP_107303299.1	99.74	100	True	True	True
+GCF_059761725.1	Photobacterium phosphoreum		WP_413516788.1	99.74	100	True	True	True
+GCF_059761745.1	Photobacterium phosphoreum		WP_413516788.1	99.74	100	True	True	True
+GCF_949787665.1	Photobacterium phosphoreum	MIP2473	WP_107303299.1	99.74	100	True	True	True
+GCF_965118505.1	Photobacterium phosphoreum	SF1731	WP_413516788.1	99.74	100	True	True	True
+GCF_965118525.1	Photobacterium phosphoreum	SF661-B	WP_107303299.1	99.74	100	True	True	True
+GCF_965119175.1	Photobacterium phosphoreum	MIP2569	WP_413505860.1	99.74	100	True	True	True

@@ -1,0 +1,61 @@
+Taxon_Group	HDC_State	Observed	Expected	Adjusted_Standardized_Residual
+Other Photobacterium	HDC_ONLY	1	10.131	-3.375
+Other Photobacterium	HDC2_ONLY	1	3.519	-1.47
+Other Photobacterium	BOTH	0	0.32	-0.6
+Other Photobacterium	NEITHER	51	39.03	3.948
+P. angustum	HDC_ONLY	16	5.352	5.268
+P. angustum	HDC2_ONLY	0	1.859	-1.453
+P. angustum	BOTH	0	0.169	-0.424
+P. angustum	NEITHER	12	20.62	-3.806
+P. aquimaris	HDC_ONLY	5	1.72	2.806
+P. aquimaris	HDC2_ONLY	0	0.598	-0.807
+P. aquimaris	BOTH	0	0.054	-0.236
+P. aquimaris	NEITHER	4	6.628	-2.006
+P. carnosum	HDC_ONLY	0	4.014	-2.276
+P. carnosum	HDC2_ONLY	1	1.394	-0.353
+P. carnosum	BOTH	0	0.127	-0.365
+P. carnosum	NEITHER	20	15.465	2.295
+P. damselae	HDC_ONLY	26	10.704	5.518
+P. damselae	HDC2_ONLY	0	3.718	-2.119
+P. damselae	BOTH	0	0.338	-0.619
+P. damselae	NEITHER	30	41.239	-3.619
+P. damselae subsp. damselae	HDC_ONLY	24	9.94	5.241
+P. damselae subsp. damselae	HDC2_ONLY	0	3.453	-2.032
+P. damselae subsp. damselae	BOTH	0	0.314	-0.594
+P. damselae subsp. damselae	NEITHER	28	38.294	-3.424
+P. damselae subsp. piscicida	HDC_ONLY	1	2.676	-1.156
+P. damselae subsp. piscicida	HDC2_ONLY	0	0.93	-1.012
+P. damselae subsp. piscicida	BOTH	0	0.085	-0.296
+P. damselae subsp. piscicida	NEITHER	13	10.31	1.655
+P. iliopiscarium	HDC_ONLY	0	3.441	-2.101
+P. iliopiscarium	HDC2_ONLY	0	1.195	-1.153
+P. iliopiscarium	BOTH	0	0.109	-0.337
+P. iliopiscarium	NEITHER	18	13.256	2.585
+P. kishitanii	HDC_ONLY	21	4.588	8.734
+P. kishitanii	HDC2_ONLY	0	1.594	-1.339
+P. kishitanii	BOTH	3	0.145	7.713
+P. kishitanii	NEITHER	0	17.674	-8.394
+P. leiognathi	HDC_ONLY	0	1.911	-1.553
+P. leiognathi	HDC2_ONLY	0	0.664	-0.852
+P. leiognathi	BOTH	0	0.06	-0.249
+P. leiognathi	NEITHER	10	7.364	1.911
+P. leiognathi subsp. mandapamensis	HDC_ONLY	0	20.644	-5.71
+P. leiognathi subsp. mandapamensis	HDC2_ONLY	0	7.171	-3.133
+P. leiognathi subsp. mandapamensis	BOTH	0	0.652	-0.915
+P. leiognathi subsp. mandapamensis	NEITHER	108	79.533	7.028
+P. phosphoreum	HDC_ONLY	0	11.469	-4.016
+P. phosphoreum	HDC2_ONLY	31	3.984	14.939
+P. phosphoreum	BOTH	0	0.362	-0.644
+P. phosphoreum	NEITHER	29	44.185	-4.745
+P. piscicola	HDC_ONLY	0	2.676	-1.845
+P. piscicola	HDC2_ONLY	0	0.93	-1.012
+P. piscicola	BOTH	0	0.085	-0.296
+P. piscicola	NEITHER	14	10.31	2.271
+P. swingsii	HDC_ONLY	0	1.529	-1.386
+P. swingsii	HDC2_ONLY	0	0.531	-0.76
+P. swingsii	BOTH	0	0.048	-0.222
+P. swingsii	NEITHER	8	5.891	1.706
+Photobacterium sp.	HDC_ONLY	1	4.205	-1.778
+Photobacterium sp.	HDC2_ONLY	0	1.461	-1.28
+Photobacterium sp.	BOTH	0	0.133	-0.374
+Photobacterium sp.	NEITHER	21	16.201	2.375

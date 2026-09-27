@@ -1,0 +1,110 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	HDC taxonomic groups
+COLOR	#000000
+STRIP_WIDTH	25
+MARGIN	5
+BORDER_WIDTH	0
+LEGEND_TITLE	Major Photobacterium taxa
+LEGEND_SHAPES	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#2CA02C	#D62728	#9467BD	#8C564B	#E377C2	#17BECF	#8C6D31	#BDBDBD
+LEGEND_LABELS	P. damselae	P. damselae subsp. damselae	P. angustum	P. kishitanii	Photobacterium sp.	P. damselae subsp. piscicida	P. aquimaris	Other Photobacterium
+DATA
+GCF_000176795.1	#D62728	P. damselae subsp. damselae
+GCF_000613045.3	#8C564B	P. kishitanii
+GCF_000949965.1	#8C564B	P. kishitanii
+GCF_000950025.1	#9467BD	P. angustum
+GCF_000950075.1	#8C564B	P. kishitanii
+GCF_000950085.1	#9467BD	P. angustum
+GCF_000950095.1	#8C564B	P. kishitanii
+GCF_000950135.1	#8C564B	P. kishitanii
+GCF_000950155.1	#9467BD	P. angustum
+GCF_000950185.1	#9467BD	P. angustum
+GCF_000950215.1	#9467BD	P. angustum
+GCF_000950225.1	#9467BD	P. angustum
+GCF_000950335.1	#8C564B	P. kishitanii
+GCF_001455895.1	#8C564B	P. kishitanii
+GCF_001676065.1	#8C6D31	P. aquimaris
+GCF_001676075.1	#8C6D31	P. aquimaris
+GCF_001676215.1	#8C564B	P. kishitanii
+GCF_001676235.1	#8C564B	P. kishitanii
+GCF_001707815.1	#D62728	P. damselae subsp. damselae
+GCF_001708035.2	#D62728	P. damselae subsp. damselae
+GCF_002142615.1	#D62728	P. damselae subsp. damselae
+GCF_003004505.1	#D62728	P. damselae subsp. damselae
+GCF_003004585.1	#D62728	P. damselae subsp. damselae
+GCF_003025535.1	#8C564B	P. kishitanii
+GCF_003025625.1	#8C6D31	P. aquimaris
+GCF_003025895.1	#8C564B	P. kishitanii
+GCF_003025935.1	#8C564B	P. kishitanii
+GCF_003025945.1	#8C564B	P. kishitanii
+GCF_003025975.1	#8C564B	P. kishitanii
+GCF_003025995.1	#8C564B	P. kishitanii
+GCF_003026335.1	#9467BD	P. angustum
+GCF_003026355.1	#8C564B	P. kishitanii
+GCF_003026515.1	#8C6D31	P. aquimaris
+GCF_003026635.1	#8C564B	P. kishitanii
+GCF_003026655.1	#8C564B	P. kishitanii
+GCF_003026675.1	#8C564B	P. kishitanii
+GCF_003026815.1	#2CA02C	P. damselae
+GCF_003026835.1	#9467BD	P. angustum
+GCF_003026895.1	#9467BD	P. angustum
+GCF_003026905.1	#9467BD	P. angustum
+GCF_003026935.1	#9467BD	P. angustum
+GCF_003026955.1	#9467BD	P. angustum
+GCF_003026975.1	#8C564B	P. kishitanii
+GCF_003026995.1	#9467BD	P. angustum
+GCF_003027015.1	#9467BD	P. angustum
+GCF_003027035.1	#8C564B	P. kishitanii
+GCF_003027055.1	#8C564B	P. kishitanii
+GCF_003027075.1	#9467BD	P. angustum
+GCF_003027095.1	#9467BD	P. angustum
+GCF_003027115.1	#8C564B	P. kishitanii
+GCF_003130755.1	#2CA02C	P. damselae
+GCF_004135105.1	#D62728	P. damselae subsp. damselae
+GCF_004794735.1	#D62728	P. damselae subsp. damselae
+GCF_008806825.1	#D62728	P. damselae subsp. damselae
+GCF_009665375.1	#2CA02C	P. damselae
+GCF_013377605.1	#D62728	P. damselae subsp. damselae
+GCF_013377775.1	#D62728	P. damselae subsp. damselae
+GCF_014042565.1	#D62728	P. damselae subsp. damselae
+GCF_014525015.1	#2CA02C	P. damselae
+GCF_015602445.1	#2CA02C	P. damselae
+GCF_021765875.1	#D62728	P. damselae subsp. damselae
+GCF_021766015.1	#D62728	P. damselae subsp. damselae
+GCF_021768345.1	#D62728	P. damselae subsp. damselae
+GCF_021768365.1	#D62728	P. damselae subsp. damselae
+GCF_021768405.1	#D62728	P. damselae subsp. damselae
+GCF_021768425.1	#D62728	P. damselae subsp. damselae
+GCF_022129485.1	#2CA02C	P. damselae
+GCF_022129505.1	#2CA02C	P. damselae
+GCF_022129605.1	#2CA02C	P. damselae
+GCF_030168795.1	#2CA02C	P. damselae
+GCF_030168855.1	#2CA02C	P. damselae
+GCF_030169005.1	#2CA02C	P. damselae
+GCF_030169045.1	#2CA02C	P. damselae
+GCF_030716765.1	#8C564B	P. kishitanii
+GCF_037997135.1	#17BECF	P. damselae subsp. piscicida
+GCF_038086615.1	#D62728	P. damselae subsp. damselae
+GCF_050875365.1	#2CA02C	P. damselae
+GCF_052873895.1	#2CA02C	P. damselae
+GCF_052877355.1	#2CA02C	P. damselae
+GCF_052877375.1	#2CA02C	P. damselae
+GCF_052877475.1	#2CA02C	P. damselae
+GCF_052878335.1	#2CA02C	P. damselae
+GCF_052878375.1	#2CA02C	P. damselae
+GCF_053850225.1	#D62728	P. damselae subsp. damselae
+GCF_054486525.1	#2CA02C	P. damselae
+GCF_056675655.1	#D62728	P. damselae subsp. damselae
+GCF_057063665.1	#D62728	P. damselae subsp. damselae
+GCF_057922655.1	#2CA02C	P. damselae
+GCF_057922685.1	#2CA02C	P. damselae
+GCF_059492265.1	#D62728	P. damselae subsp. damselae
+GCF_059735745.1	#2CA02C	P. damselae
+GCF_059784805.1	#D62728	P. damselae subsp. damselae
+GCF_900185565.1	#8C6D31	P. aquimaris
+GCF_900185625.1	#BDBDBD	Other Photobacterium
+GCF_900454585.1	#2CA02C	P. damselae
+GCF_900454595.1	#2CA02C	P. damselae
+GCF_900454675.1	#2CA02C	P. damselae
+GCF_900537155.1	#E377C2	Photobacterium sp.

@@ -1,0 +1,13 @@
+Taxon × HDC-system permutation test
+Genomes: 497
+Taxa: 15
+HDC states: 4
+
+Observed chi-square: 509.0521
+Cramer's V: 0.5843
+
+Permutations: 100000
+Permuted statistics >= observed: 0
+Monte Carlo p-value: 9.9999e-06
+
+Random seed: 20260919

@@ -1,0 +1,39 @@
+HDC2 FS3_1 sensitivity analysis
+
+Primary HDC2 tree:
+36 sequences, including GCF_001676275.1 / WP_202908000.1 / FS3_1.
+
+Sensitivity tree:
+35 sequences after excluding FS3_1.
+Sequences were independently realigned with MAFFT and the tree was rebuilt with
+IQ-TREE using ModelFinder, 1000 ultrafast bootstrap replicates, and 1000 SH-aLRT
+replicates.
+
+Sensitivity model:
+Q.PFAM+I
+
+Sensitivity best ML log-likelihood:
+-3162.2766
+
+Raw unrooted topology comparison on the 35 common taxa:
+Original non-trivial splits: 32
+Sensitivity non-trivial splits: 32
+Shared splits: 14
+Robinson-Foulds distance: 36
+Normalized RF distance: 0.5625
+
+Because HDC2 contains many highly similar sequences and near-zero internal
+branches, the raw RF distance is strongly influenced by weakly resolved splits.
+
+Support-aware comparison using SH-aLRT >=80 and UFBoot >=95:
+Original strong splits: 3
+Sensitivity strong splits: 3
+Shared strong splits: 3
+Original-only strong splits: 0
+Sensitivity-only strong splits: 0
+
+Conclusion:
+Exclusion of FS3_1 did not alter any strongly supported split among the 35 common
+taxa. Therefore, the well-supported HDC2 backbone is robust to inclusion of the
+shorter FS3_1 HDC2-family protein, supporting its retention in the primary
+36-sequence HDC2 phylogeny.

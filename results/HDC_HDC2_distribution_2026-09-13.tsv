@@ -1,0 +1,501 @@
+Assembly Accession	Organism Name	Organism Infraspecific Names Strain	Conventional_HDC	HDC2	HDC_System
+GCF_000153265.1	Photobacterium angustum S14	S14	False	False	NEITHER
+GCF_000176795.1	Photobacterium damselae subsp. damselae CIP 102761	CIP 102761	True	False	HDC_ONLY
+GCF_000196255.1	Photobacterium profundum SS9	SS9	False	False	NEITHER
+GCF_000300355.2	Photobacterium damselae subsp. piscicida DI21	DI21	False	False	NEITHER
+GCF_000425165.1	Photobacterium halotolerans DSM 18316	DSM 18316	False	False	NEITHER
+GCF_000509205.1	Photobacterium leiognathi lrivu.4.1	lrivu.4.1	False	False	NEITHER
+GCF_000613045.3	Photobacterium kishitanii	ANT-2200	True	True	BOTH
+GCF_000808615.1	Photobacterium gaetbulicola	AD005a	False	False	NEITHER
+GCF_000949935.1	Photobacterium iliopiscarium	ATCC 51761	False	False	NEITHER
+GCF_000949955.1	Photobacterium phosphoreum	ATCC 11040	False	False	NEITHER
+GCF_000949965.1	Photobacterium kishitanii	GCSL-A1-3	True	False	HDC_ONLY
+GCF_000950005.1	Photobacterium angustum	ATCC 25915	False	False	NEITHER
+GCF_000950015.1	Photobacterium angustum	ATCC 33977	False	False	NEITHER
+GCF_000950025.1	Photobacterium angustum	GCSL-A10-1	True	False	HDC_ONLY
+GCF_000950075.1	Photobacterium kishitanii	GCSL-A1-2	True	False	HDC_ONLY
+GCF_000950085.1	Photobacterium angustum	GCSL-A2-2	True	False	HDC_ONLY
+GCF_000950095.1	Photobacterium kishitanii	ATCC BAA-1194	True	False	HDC_ONLY
+GCF_000950135.1	Photobacterium kishitanii	GCSL-A1-1	True	False	HDC_ONLY
+GCF_000950155.1	Photobacterium angustum	GCSL-A6	True	False	HDC_ONLY
+GCF_000950185.1	Photobacterium angustum	GCSL-A10-3	True	False	HDC_ONLY
+GCF_000950215.1	Photobacterium angustum	GCSL-A9	True	False	HDC_ONLY
+GCF_000950225.1	Photobacterium angustum	GCSL-A10-2	True	False	HDC_ONLY
+GCF_000950255.1	Photobacterium angustum	ATCC 33975	False	False	NEITHER
+GCF_000950275.1	Photobacterium angustum	GCSL-A2-4	False	False	NEITHER
+GCF_000950335.1	Photobacterium kishitanii	GCSL-A1-4	True	False	HDC_ONLY
+GCF_000950355.1	Photobacterium angustum	GCSL-A2-1	False	False	NEITHER
+GCF_000950375.1	Photobacterium angustum	GCSL-A2-3	False	False	NEITHER
+GCF_000950415.1	Photobacterium leiognathi	ATCC 25521	False	False	NEITHER
+GCF_000950435.1	Photobacterium leiognathi	ATCC 33979	False	False	NEITHER
+GCF_000972145.1	Photobacterium halotolerans	MELD1	False	False	NEITHER
+GCF_001029435.1	Photobacterium aphoticum	DSM 25995	False	False	NEITHER
+GCF_001029445.1	Photobacterium aquae	CGMCC 1.12159	False	False	NEITHER
+GCF_001029455.1	Photobacterium ganghwense	DSM 22954	False	False	NEITHER
+GCF_001455895.1	Photobacterium kishitanii	201212X	True	False	HDC_ONLY
+GCF_001557755.1	Photobacterium leiognathi	CUB1	False	False	NEITHER
+GCF_001558075.1	Photobacterium leiognathi subsp. mandapamensis	CUB3	False	False	NEITHER
+GCF_001558115.1	Photobacterium aquimaris	NCCB 100386	False	False	NEITHER
+GCF_001650345.1	Photobacterium jeanii	R-40508	False	False	NEITHER
+GCF_001676065.1	Photobacterium aquimaris	BS-2	True	False	HDC_ONLY
+GCF_001676075.1	Photobacterium aquimaris	BS-1	True	False	HDC_ONLY
+GCF_001676085.1	Photobacterium aquimaris	DSM 23343	False	False	NEITHER
+GCF_001676135.1	Photobacterium phosphoreum	AK-3	False	True	HDC2_ONLY
+GCF_001676145.1	Photobacterium damselae	BT-6	False	False	NEITHER
+GCF_001676195.1	Photobacterium phosphoreum	FS1_1	False	True	HDC2_ONLY
+GCF_001676215.1	Photobacterium kishitanii	DSM 2167	True	False	HDC_ONLY
+GCF_001676235.1	Photobacterium kishitanii	calba1_1	True	False	HDC_ONLY
+GCF_001676275.1	Photobacterium phosphoreum	FS3_1	False	True	HDC2_ONLY
+GCF_001707815.1	Photobacterium damselae subsp. damselae	LD-07	True	False	HDC_ONLY
+GCF_001708035.2	Photobacterium damselae subsp. damselae	RM-71	True	False	HDC_ONLY
+GCF_001729115.1	Photobacterium damselae subsp. damselae	A-162	False	False	NEITHER
+GCF_002142615.1	Photobacterium damselae subsp. damselae	KC-Na-1	True	False	HDC_ONLY
+GCF_002157645.1	Photobacterium damselae subsp. piscicida	OT-51443	False	False	NEITHER
+GCF_002356235.1	Photobacterium damselae subsp. piscicida	91-197	False	False	NEITHER
+GCF_002849605.1	Photobacterium carnosum	TMW 2.2021	False	False	NEITHER
+GCF_002954455.1	Photobacterium aquimaris	LC2-065	False	False	NEITHER
+GCF_002954615.1	Photobacterium angustum	LC1-200	False	False	NEITHER
+GCF_002954725.1	Photobacterium phosphoreum	JCM 21184	False	False	NEITHER
+GCF_003004505.1	Photobacterium damselae subsp. damselae	940804-1/2	True	False	HDC_ONLY
+GCF_003004585.1	Photobacterium damselae subsp. damselae	940804-1/1	True	False	HDC_ONLY
+GCF_003004595.1	Photobacterium damselae subsp. damselae	206328-2	False	False	NEITHER
+GCF_003004605.1	Photobacterium damselae subsp. damselae	206317-1	False	False	NEITHER
+GCF_003025415.1	Photobacterium aquimaris	DSM 23343	False	False	NEITHER
+GCF_003025425.1	Photobacterium iliopiscarium	NCIMB 13478	False	False	NEITHER
+GCF_003025455.1	Photobacterium iliopiscarium	NCIMB 13355	False	False	NEITHER
+GCF_003025475.1	Photobacterium sp. NCIMB 13483	NCIMB 13483	False	False	NEITHER
+GCF_003025495.1	Photobacterium jeanii	DSM 100339	False	False	NEITHER
+GCF_003025535.1	Photobacterium kishitanii	DSMZ 2167	True	False	HDC_ONLY
+GCF_003025555.1	Photobacterium lutimaris	JCM 13586	False	False	NEITHER
+GCF_003025575.1	Photobacterium aphoticum	DSM 25995	False	False	NEITHER
+GCF_003025595.1	Photobacterium ganghwense	JCM 12487	False	False	NEITHER
+GCF_003025615.1	Photobacterium frigidiphilum	JCM 12947	False	False	NEITHER
+GCF_003025625.1	Photobacterium aquimaris	BS2	True	False	HDC_ONLY
+GCF_003025655.1	Photobacterium phosphoreum	FS-6.2	False	False	NEITHER
+GCF_003025675.1	Photobacterium damselae	BT-6	False	False	NEITHER
+GCF_003025695.1	Photobacterium phosphoreum	FS-6.3	False	False	NEITHER
+GCF_003025715.1	Photobacterium phosphoreum	FS-6.1	False	False	NEITHER
+GCF_003025735.1	Photobacterium phosphoreum	FS-4.1	False	False	NEITHER
+GCF_003025755.1	Photobacterium phosphoreum	FS-5.2	False	False	NEITHER
+GCF_003025775.1	Photobacterium phosphoreum	FS-4.2	False	True	HDC2_ONLY
+GCF_003025795.1	Photobacterium phosphoreum	FS-2.1	False	True	HDC2_ONLY
+GCF_003025815.1	Photobacterium phosphoreum	FS-1.2	False	True	HDC2_ONLY
+GCF_003025835.1	Photobacterium phosphoreum	AK-4	False	False	NEITHER
+GCF_003025855.1	Photobacterium phosphoreum	FS-1.1	False	True	HDC2_ONLY
+GCF_003025875.1	Photobacterium phosphoreum	AK-8	False	True	HDC2_ONLY
+GCF_003025895.1	Photobacterium kishitanii	ckamo.1.1	True	False	HDC_ONLY
+GCF_003025935.1	Photobacterium kishitanii	FS-7.1	True	True	BOTH
+GCF_003025945.1	Photobacterium kishitanii	B-421	True	False	HDC_ONLY
+GCF_003025975.1	Photobacterium kishitanii	pjapo.1.1	True	False	HDC_ONLY
+GCF_003025995.1	Photobacterium kishitanii	Og61	True	True	BOTH
+GCF_003026015.1	Photobacterium leiognathi subsp. mandapamensis	PL-721	False	False	NEITHER
+GCF_003026055.1	Photobacterium leiognathi subsp. mandapamensis	Res.4.1	False	False	NEITHER
+GCF_003026075.1	Photobacterium sp. GB-210	GB-210	False	False	NEITHER
+GCF_003026095.1	Photobacterium sp. GB-72	GB-72	False	False	NEITHER
+GCF_003026105.1	Photobacterium sp. GB-56	GB-56	False	False	NEITHER
+GCF_003026135.1	Photobacterium sp. GB-36	GB-36	False	False	NEITHER
+GCF_003026155.1	Photobacterium sp. GB-3	GB-3	False	False	NEITHER
+GCF_003026165.1	Photobacterium sp. GB-1	GB-1	False	False	NEITHER
+GCF_003026175.1	Photobacterium sp. GB-27	GB-27	False	False	NEITHER
+GCF_003026215.1	Photobacterium indicum	ATCC 19614	False	False	NEITHER
+GCF_003026235.1	Photobacterium leiognathi	ATCC 25521	False	False	NEITHER
+GCF_003026245.1	Photobacterium damselae	ATCC 29689	False	False	NEITHER
+GCF_003026275.1	Photobacterium phosphoreum	ATCC 11040	False	False	NEITHER
+GCF_003026285.1	Photobacterium profundum	ATCC BAA-1252	False	False	NEITHER
+GCF_003026315.1	Photobacterium leiognathi	ATCC 33979	False	False	NEITHER
+GCF_003026335.1	Photobacterium angustum	ATCC 33977	True	False	HDC_ONLY
+GCF_003026355.1	Photobacterium kishitanii	ATCC BAA-1194	True	False	HDC_ONLY
+GCF_003026365.1	Photobacterium angustum	ATCC 25915	False	False	NEITHER
+GCF_003026395.1	Photobacterium iliopiscarium	ATCC 51760	False	False	NEITHER
+GCF_003026405.1	Photobacterium iliopiscarium	NCIMB 13481	False	False	NEITHER
+GCF_003026435.1	Photobacterium swingsii	DSM 24669	False	False	NEITHER
+GCF_003026475.1	Photobacterium lipolyticum	DSM 16190	False	False	NEITHER
+GCF_003026495.1	Photobacterium sanctipauli	DSM 100436	False	False	NEITHER
+GCF_003026515.1	Photobacterium aquimaris	BS1	True	False	HDC_ONLY
+GCF_003026535.1	Photobacterium phosphoreum	FS-5.1	False	False	NEITHER
+GCF_003026545.1	Photobacterium phosphoreum	FS-2.3	False	True	HDC2_ONLY
+GCF_003026575.1	Photobacterium phosphoreum	FS.2.2	False	False	NEITHER
+GCF_003026595.1	Photobacterium phosphoreum	AK-5	False	False	NEITHER
+GCF_003026615.1	Photobacterium phosphoreum	AK-3	False	True	HDC2_ONLY
+GCF_003026635.1	Photobacterium kishitanii	FS-8.1	True	False	HDC_ONLY
+GCF_003026655.1	Photobacterium kishitanii	calba.1.1	True	False	HDC_ONLY
+GCF_003026675.1	Photobacterium kishitanii	NCIMB 844	True	False	HDC_ONLY
+GCF_003026695.1	Photobacterium leiognathi subsp. mandapamensis	AJ-1a	False	False	NEITHER
+GCF_003026715.1	Photobacterium leiognathi subsp. mandapamensis	gjord.1.1	False	False	NEITHER
+GCF_003026735.1	Photobacterium leiognathi subsp. mandapamensis	ajapo.3.1	False	False	NEITHER
+GCF_003026755.1	Photobacterium sp. GB-50	GB-50	False	False	NEITHER
+GCF_003026775.1	Photobacterium damselae	ATCC 29688	False	False	NEITHER
+GCF_003026815.1	Photobacterium damselae	ATCC 33539	True	False	HDC_ONLY
+GCF_003026835.1	Photobacterium angustum	A10-2	True	False	HDC_ONLY
+GCF_003026855.1	Photobacterium angustum	ATCC 33975	False	False	NEITHER
+GCF_003026875.1	Photobacterium iliopiscarium	ATCC 51761	False	False	NEITHER
+GCF_003026895.1	Photobacterium angustum	A2-4	True	False	HDC_ONLY
+GCF_003026905.1	Photobacterium angustum	A10-1	True	False	HDC_ONLY
+GCF_003026935.1	Photobacterium angustum	A9-1	True	False	HDC_ONLY
+GCF_003026955.1	Photobacterium angustum	A6-1	True	False	HDC_ONLY
+GCF_003026975.1	Photobacterium kishitanii	A1-3	True	False	HDC_ONLY
+GCF_003026995.1	Photobacterium angustum	A2-2	True	False	HDC_ONLY
+GCF_003027015.1	Photobacterium angustum	A2-1	True	False	HDC_ONLY
+GCF_003027035.1	Photobacterium kishitanii	A1-2	True	False	HDC_ONLY
+GCF_003027055.1	Photobacterium kishitanii	A1-1	True	False	HDC_ONLY
+GCF_003027075.1	Photobacterium angustum	A10-3	True	False	HDC_ONLY
+GCF_003027095.1	Photobacterium angustum	A2-3	True	False	HDC_ONLY
+GCF_003027115.1	Photobacterium kishitanii	A1-4	True	False	HDC_ONLY
+GCF_003028875.1	Photobacterium phosphoreum	FS-3.2	False	False	NEITHER
+GCF_003130755.1	Photobacterium damselae	Phdp Wu-1	True	False	HDC_ONLY
+GCF_003355625.1	Photobacterium damselae	Hep-2a-11	False	False	NEITHER
+GCF_004135105.1	Photobacterium damselae subsp. damselae	KC-Na-NB1	True	False	HDC_ONLY
+GCF_004363665.1	Photobacterium lutimaris	CECT 7642	False	False	NEITHER
+GCF_004683985.2	Photobacterium damselae subsp. piscicida	PP3	False	False	NEITHER
+GCF_004794735.1	Photobacterium damselae subsp. damselae	JM-2017	True	False	HDC_ONLY
+GCF_005048985.1	Photobacterium damselae subsp. piscicida	MT1415	False	False	NEITHER
+GCF_005819805.1	Photobacterium damselae subsp. damselae	70dps-OG12	False	False	NEITHER
+GCF_005819825.1	Photobacterium damselae subsp. damselae	111bp-OG15A	False	False	NEITHER
+GCF_005819835.1	Photobacterium damselae subsp. damselae	144bp-OG3	False	False	NEITHER
+GCF_005819845.1	Photobacterium damselae subsp. damselae	64bp-OG9	False	False	NEITHER
+GCF_005819885.1	Photobacterium damselae subsp. damselae	89dp-OG16	False	False	NEITHER
+GCF_006124795.1	Photobacterium damselae	Hep-2a-16	False	False	NEITHER
+GCF_006124835.1	Photobacterium damselae	Hep-2a-14	False	False	NEITHER
+GCF_006124915.1	Photobacterium damselae	Hep-2b-22	False	False	NEITHER
+GCF_006297395.2	Photobacterium damselae subsp. damselae	164dp-OG2	False	False	NEITHER
+GCF_008806795.1	Photobacterium damselae subsp. damselae	CDC-2227-81	False	False	NEITHER
+GCF_008806825.1	Photobacterium damselae subsp. damselae	80077637	True	False	HDC_ONLY
+GCF_009389665.1	Photobacterium carnosum	TMW 2.2029	False	False	NEITHER
+GCF_009665375.1	Photobacterium damselae	2012V-1072	True	False	HDC_ONLY
+GCF_009763125.1	Photobacterium damselae	9046-81	False	False	NEITHER
+GCF_009874335.1	Photobacterium lucens	CAIM 1938	False	False	NEITHER
+GCF_009904675.1	Photobacterium halotolerans	P44_P4S2P179	False	False	NEITHER
+GCF_013371045.1	Photobacterium damselae subsp. damselae	206352-6(DK32)	False	False	NEITHER
+GCF_013371545.1	Photobacterium damselae subsp. damselae	162bp-OG4A	False	False	NEITHER
+GCF_013377605.1	Photobacterium damselae subsp. damselae	CDC-1421-81	True	False	HDC_ONLY
+GCF_013377775.1	Photobacterium damselae subsp. damselae	82dy-OG8	True	False	HDC_ONLY
+GCF_013377875.1	Photobacterium damselae subsp. damselae	189bp-OG7B	False	False	NEITHER
+GCF_014042565.1	Photobacterium damselae subsp. damselae	125dy-OG11	True	False	HDC_ONLY
+GCF_014525015.1	Photobacterium damselae	727-82	True	False	HDC_ONLY
+GCF_014525275.1	Photobacterium damselae	9045-81	False	False	NEITHER
+GCF_014652075.1	Photobacterium aphoticum	KCTC 23057	False	False	NEITHER
+GCA_014775675.1	Photobacterium damselae subsp. piscicida	AS-16-0540-1	False	False	NEITHER
+GCF_014775695.1	Photobacterium damselae subsp. piscicida	AS-16-0555-7	False	False	NEITHER
+GCF_014930975.1	Photobacterium damselae subsp. damselae	KC-Dl-1	False	False	NEITHER
+GCF_015602445.1	Photobacterium damselae	DSM 110634	True	False	HDC_ONLY
+GCF_017329545.1	Photobacterium ganghwense	C2.2	False	False	NEITHER
+GCF_019084105.1	Photobacterium ganghwense	K3B	False	False	NEITHER
+GCF_019781095.1	Photobacterium carnosum	TMW 22099	False	False	NEITHER
+GCF_021236585.1	Photobacterium phosphoreum	TMW2.2140	False	False	NEITHER
+GCF_021236605.1	Photobacterium iliopiscarium	TMW2.2104	False	False	NEITHER
+GCF_021236625.1	Photobacterium phosphoreum	TMW2.2132	False	False	NEITHER
+GCF_021236645.1	Photobacterium phosphoreum	TMW2.2134	False	False	NEITHER
+GCF_021236655.1	Photobacterium phosphoreum	TMW2.2142	False	False	NEITHER
+GCF_021236685.1	Photobacterium phosphoreum	TMW2.2130	False	True	HDC2_ONLY
+GCF_021236705.1	Photobacterium phosphoreum	TMW2.2126	False	True	HDC2_ONLY
+GCF_021236725.1	Photobacterium phosphoreum	TMW2.2125	False	False	NEITHER
+GCF_021236745.1	Photobacterium phosphoreum	TMW2.2103	False	False	NEITHER
+GCF_021236765.1	Photobacterium carnosum	TMW2.2190	False	False	NEITHER
+GCF_021236785.1	Photobacterium carnosum	TMW2.2189	False	False	NEITHER
+GCF_021236805.1	Photobacterium carnosum	TMW2.2187	False	True	HDC2_ONLY
+GCF_021236825.1	Photobacterium carnosum	TMW2.2188	False	False	NEITHER
+GCF_021236845.1	Photobacterium carnosum	TMW2.2163	False	False	NEITHER
+GCF_021236865.1	Photobacterium carnosum	TMW2.2169	False	False	NEITHER
+GCF_021236875.1	Photobacterium carnosum	TMW2.2186	False	False	NEITHER
+GCF_021236905.1	Photobacterium carnosum	TMW2.2157	False	False	NEITHER
+GCF_021236925.1	Photobacterium carnosum	TMW2.2150	False	False	NEITHER
+GCF_021236945.1	Photobacterium carnosum	TMW2.2149	False	False	NEITHER
+GCF_021236965.1	Photobacterium carnosum	TMW2.2147	False	False	NEITHER
+GCF_021236975.1	Photobacterium carnosum	TMW2.2098	False	False	NEITHER
+GCF_021236985.1	Photobacterium carnosum	TMW2.2097	False	False	NEITHER
+GCF_021237025.1	Photobacterium phosphoreum	TMW22033	False	True	HDC2_ONLY
+GCF_021237045.1	Photobacterium phosphoreum	TMW22034	False	True	HDC2_ONLY
+GCF_021237065.1	Photobacterium iliopiscarium	TMW22035	False	False	NEITHER
+GCF_021432065.1	Photobacterium sp. TLY01	TLY01	False	False	NEITHER
+GCF_021504545.1	Photobacterium phosphoreum	TMW2.2145	False	False	NEITHER
+GCF_021504575.1	Photobacterium iliopiscarium	TMW2.2172	False	False	NEITHER
+GCF_021504615.1	Photobacterium phosphoreum	TMW2.2143	False	False	NEITHER
+GCF_021504635.1	Photobacterium phosphoreum	TMW2.2139	False	False	NEITHER
+GCF_021504655.1	Photobacterium carnosum	TMW2.2148	False	False	NEITHER
+GCF_021504665.1	Photobacterium carnosum	TMW2.2160	False	False	NEITHER
+GCF_021504695.1	Photobacterium carnosum	TMW2.2154	False	False	NEITHER
+GCF_021504715.1	Photobacterium carnosum	TMW2.2161	False	False	NEITHER
+GCF_021765875.1	Photobacterium damselae subsp. damselae	CSP DAM2	True	False	HDC_ONLY
+GCF_021766015.1	Photobacterium damselae subsp. damselae	CSP DAM1	True	False	HDC_ONLY
+GCF_021768305.1	Photobacterium damselae subsp. damselae	AS-16-0963-3	False	False	NEITHER
+GCF_021768345.1	Photobacterium damselae subsp. damselae	AS-16-0963-1	True	False	HDC_ONLY
+GCF_021768365.1	Photobacterium damselae subsp. damselae	AS-15-3942-9	True	False	HDC_ONLY
+GCF_021768385.1	Photobacterium damselae subsp. damselae	AS-15-3942-8	False	False	NEITHER
+GCF_021768405.1	Photobacterium damselae subsp. damselae	AS-15-3942-7	True	False	HDC_ONLY
+GCF_021768425.1	Photobacterium damselae subsp. damselae	AS-15-0759-2	True	False	HDC_ONLY
+GCF_022129445.1	Photobacterium sp. Ph5	Ph5	False	False	NEITHER
+GCF_022129465.1	Photobacterium sp. Ph6	Ph6	False	False	NEITHER
+GCF_022129485.1	Photobacterium damselae	Ph7	True	False	HDC_ONLY
+GCF_022129505.1	Photobacterium damselae	Ph4	True	False	HDC_ONLY
+GCF_022129605.1	Photobacterium damselae	Ph3	True	False	HDC_ONLY
+GCF_022129615.1	Photobacterium leiognathi	Ph2	False	False	NEITHER
+GCF_022129675.1	Photobacterium damselae	Ph1	False	False	NEITHER
+GCF_022398535.1	Photobacterium damselae	M13-17570	False	False	NEITHER
+GCF_022398555.1	Photobacterium damselae	M14-00202	False	False	NEITHER
+GCF_023151555.2	Photobacterium sp. CCB-ST2H9	CCB-ST2H9	False	False	NEITHER
+GCF_023973125.1	Photobacterium damselae	XP-11	False	False	NEITHER
+GCF_024346675.1	Photobacterium sanguinicancri	CECT 7579	False	False	NEITHER
+GCF_024346715.1	Photobacterium swingsii	CECT 7576	False	False	NEITHER
+GCF_024357955.1	Photobacterium pectinilyticum	ZSDE20	False	False	NEITHER
+GCF_024380015.1	Photobacterium atrarenae	GJH2-4	False	False	NEITHER
+GCF_024494545.1	Photobacterium toruni	WD2103	False	False	NEITHER
+GCF_024529955.1	Photobacterium toruni	CECT 9189	False	False	NEITHER
+GCF_025398175.1	Photobacterium sp. TY1-4	TY1-4	False	False	NEITHER
+GCF_026001825.1	Photobacterium damselae subsp. damselae	04Ya311	False	False	NEITHER
+GCF_027923345.1	Photobacterium carnosum	CECT 9394	False	False	NEITHER
+GCF_028439335.1	Photobacterium damselae	11V	False	False	NEITHER
+GCF_028621875.1	Photobacterium sp. GSS17	GSS17	False	False	NEITHER
+GCF_030168795.1	Photobacterium damselae	Pdd1605	True	False	HDC_ONLY
+GCF_030168835.1	Photobacterium damselae	Pdd0210	False	False	NEITHER
+GCF_030168855.1	Photobacterium damselae	Pdd1411	True	False	HDC_ONLY
+GCF_030169005.1	Photobacterium damselae	Pdd2008	True	False	HDC_ONLY
+GCF_030169025.1	Photobacterium damselae	Pdd0906	False	False	NEITHER
+GCF_030169045.1	Photobacterium damselae	Pdd1608	True	False	HDC_ONLY
+GCF_030547045.1	Photobacterium sanguinicancri	G2M05	False	False	NEITHER
+GCF_030547825.1	Photobacterium sanguinicancri	G1M15	False	False	NEITHER
+GCF_030685295.1	Photobacterium leiognathi subsp. mandapamensis	SV5.1	False	False	NEITHER
+GCF_030685315.1	Photobacterium leiognathi subsp. mandapamensis	SV1.1	False	False	NEITHER
+GCF_030685335.1	Photobacterium leiognathi subsp. mandapamensis	SV1.2	False	False	NEITHER
+GCF_030685355.1	Photobacterium leiognathi subsp. mandapamensis	Kume1.2	False	False	NEITHER
+GCF_030685375.1	Photobacterium leiognathi subsp. mandapamensis	ajapo5.6	False	False	NEITHER
+GCF_030685395.1	Photobacterium leiognathi subsp. mandapamensis	Ik8.2	False	False	NEITHER
+GCF_030685415.1	Photobacterium leiognathi subsp. mandapamensis	StpP1.10	False	False	NEITHER
+GCF_030685435.1	Photobacterium leiognathi subsp. mandapamensis	Ik8.1	False	False	NEITHER
+GCF_030685455.1	Photobacterium leiognathi subsp. mandapamensis	Mot1.2	False	False	NEITHER
+GCF_030685475.1	Photobacterium leiognathi subsp. mandapamensis	Mot1.1	False	False	NEITHER
+GCF_030685515.1	Photobacterium leiognathi subsp. mandapamensis	lrivu20.11	False	False	NEITHER
+GCF_030685535.1	Photobacterium leiognathi	ATCC 25521	False	False	NEITHER
+GCF_030685555.1	Candidatus Photobacterium acropomis	ajapo5.5	False	False	NEITHER
+GCF_030685575.1	Photobacterium leiognathi subsp. mandapamensis	ajapo8.2	False	False	NEITHER
+GCF_030716725.1	Photobacterium leiognathi subsp. mandapamensis	lsplen1.1	False	False	NEITHER
+GCF_030716765.1	Photobacterium kishitanii	calba1.1	True	False	HDC_ONLY
+GCF_030716825.1	Photobacterium leiognathi subsp. mandapamensis	ajapo8.1	False	False	NEITHER
+GCF_030716845.1	Photobacterium leiognathi subsp. mandapamensis	lnuch19.1	False	False	NEITHER
+GCF_030716865.1	Photobacterium leiognathi subsp. mandapamensis	StJ4.21	False	False	NEITHER
+GCF_030716875.1	Photobacterium leiognathi	LN-I.1	False	False	NEITHER
+GCF_030716925.1	Photobacterium leiognathi subsp. mandapamensis	LF-1a	False	False	NEITHER
+GCF_030716945.1	Photobacterium leiognathi subsp. mandapamensis	LN-1a	False	False	NEITHER
+GCF_030716965.1	Photobacterium leiognathi	ljone10.1	False	False	NEITHER
+GCF_030716975.1	Photobacterium leiognathi subsp. mandapamensis	Kume1.3	False	False	NEITHER
+GCF_030716995.1	Photobacterium leiognathi subsp. mandapamensis	lequu1.1	False	False	NEITHER
+GCF_030717005.1	Photobacterium kishitanii	ahane1.5	True	False	HDC_ONLY
+GCF_033446985.1	Photobacterium leiognathi subsp. mandapamensis	Ph.Z2	False	False	NEITHER
+GCF_033447015.1	Photobacterium leiognathi subsp. mandapamensis	Ph.Y	False	False	NEITHER
+GCF_033447345.1	Photobacterium leiognathi subsp. mandapamensis	Ph.W2	False	False	NEITHER
+GCF_033447365.1	Photobacterium leiognathi subsp. mandapamensis	Ph.Z1	False	False	NEITHER
+GCF_033447385.1	Photobacterium leiognathi subsp. mandapamensis	Ph.V	False	False	NEITHER
+GCF_033447395.1	Photobacterium leiognathi subsp. mandapamensis	Ph.X	False	False	NEITHER
+GCF_033447415.1	Photobacterium leiognathi subsp. mandapamensis	Ph.W1	False	False	NEITHER
+GCF_033447445.1	Photobacterium leiognathi subsp. mandapamensis	Ph.T	False	False	NEITHER
+GCF_033447465.1	Photobacterium leiognathi subsp. mandapamensis	Ph.S	False	False	NEITHER
+GCF_033447495.1	Photobacterium leiognathi subsp. mandapamensis	Ph.R2	False	False	NEITHER
+GCF_033447505.1	Photobacterium leiognathi subsp. mandapamensis	Ph.R1	False	False	NEITHER
+GCF_033447565.1	Photobacterium leiognathi subsp. mandapamensis	Ph.P	False	False	NEITHER
+GCF_033447605.1	Photobacterium leiognathi subsp. mandapamensis	Ph.M	False	False	NEITHER
+GCF_033447645.1	Photobacterium leiognathi subsp. mandapamensis	Ph.L	False	False	NEITHER
+GCF_033447665.1	Photobacterium leiognathi subsp. mandapamensis	Ph.K	False	False	NEITHER
+GCF_033447685.1	Photobacterium leiognathi subsp. mandapamensis	Ph.H	False	False	NEITHER
+GCF_033447695.1	Photobacterium leiognathi subsp. mandapamensis	Ph.I	False	False	NEITHER
+GCF_033447745.1	Photobacterium leiognathi subsp. mandapamensis	Ph.GG	False	False	NEITHER
+GCF_033447755.1	Photobacterium leiognathi subsp. mandapamensis	Ph.G	False	False	NEITHER
+GCF_033447825.1	Photobacterium leiognathi subsp. mandapamensis	Ph.EE	False	False	NEITHER
+GCF_033447845.1	Photobacterium leiognathi subsp. mandapamensis	Ph.E	False	False	NEITHER
+GCF_033447865.1	Photobacterium leiognathi subsp. mandapamensis	Ph.DD1	False	False	NEITHER
+GCF_033447905.1	Photobacterium leiognathi subsp. mandapamensis	Ph.C	False	False	NEITHER
+GCF_033447925.1	Photobacterium leiognathi subsp. mandapamensis	Ph.D	False	False	NEITHER
+GCF_033447945.1	Photobacterium leiognathi subsp. mandapamensis	Ph.BB2	False	False	NEITHER
+GCF_033447965.1	Photobacterium leiognathi subsp. mandapamensis	Ph.BB1	False	False	NEITHER
+GCF_033447985.1	Photobacterium leiognathi subsp. mandapamensis	Ph.HH	False	False	NEITHER
+GCF_033448005.1	Photobacterium leiognathi subsp. mandapamensis	Ph.B1	False	False	NEITHER
+GCF_033448025.1	Photobacterium leiognathi subsp. mandapamensis	Ph.AA	False	False	NEITHER
+GCF_033448045.1	Photobacterium leiognathi subsp. mandapamensis	Ph.A	False	False	NEITHER
+GCF_033448065.1	Photobacterium leiognathi subsp. mandapamensis	Jp.Y	False	False	NEITHER
+GCF_033448085.1	Photobacterium leiognathi subsp. mandapamensis	Jp.Z	False	False	NEITHER
+GCF_033448105.1	Photobacterium leiognathi subsp. mandapamensis	Jp.X	False	False	NEITHER
+GCF_033448125.1	Photobacterium leiognathi subsp. mandapamensis	Jp.W	False	False	NEITHER
+GCF_033448145.1	Photobacterium leiognathi subsp. mandapamensis	Jp.V	False	False	NEITHER
+GCF_033448165.1	Photobacterium leiognathi subsp. mandapamensis	Jp.U2b	False	False	NEITHER
+GCF_033448185.1	Photobacterium leiognathi subsp. mandapamensis	Jp.U2a	False	False	NEITHER
+GCF_033448215.1	Photobacterium leiognathi subsp. mandapamensis	Jp.S	False	False	NEITHER
+GCF_033448245.1	Photobacterium leiognathi subsp. mandapamensis	Jp.R	False	False	NEITHER
+GCF_033448265.1	Photobacterium leiognathi subsp. mandapamensis	Jp.Q	False	False	NEITHER
+GCF_033448285.1	Photobacterium leiognathi subsp. mandapamensis	Jp.P	False	False	NEITHER
+GCF_033448305.1	Photobacterium leiognathi subsp. mandapamensis	Jp.O	False	False	NEITHER
+GCF_033448325.1	Photobacterium leiognathi subsp. mandapamensis	Jp.N	False	False	NEITHER
+GCF_033448345.1	Photobacterium leiognathi subsp. mandapamensis	Jp.K	False	False	NEITHER
+GCF_033448365.1	Photobacterium leiognathi subsp. mandapamensis	Jp.L1	False	False	NEITHER
+GCF_033448385.1	Photobacterium leiognathi subsp. mandapamensis	Jp.J	False	False	NEITHER
+GCF_033448405.1	Photobacterium leiognathi subsp. mandapamensis	Jp.H2	False	False	NEITHER
+GCF_033448425.1	Photobacterium leiognathi subsp. mandapamensis	Jp.I	False	False	NEITHER
+GCF_033448445.1	Photobacterium leiognathi subsp. mandapamensis	Jp.H1	False	False	NEITHER
+GCF_033448465.1	Photobacterium leiognathi subsp. mandapamensis	Jp.G	False	False	NEITHER
+GCF_033448485.1	Photobacterium leiognathi subsp. mandapamensis	Jp.E	False	False	NEITHER
+GCF_033448505.1	Photobacterium leiognathi subsp. mandapamensis	Jp.F	False	False	NEITHER
+GCF_033448525.1	Photobacterium leiognathi subsp. mandapamensis	Jp.DD	False	False	NEITHER
+GCF_033448545.1	Photobacterium leiognathi subsp. mandapamensis	Jp.CC	False	False	NEITHER
+GCF_033448555.1	Photobacterium leiognathi subsp. mandapamensis	Jp.D	False	False	NEITHER
+GCF_033448585.1	Photobacterium leiognathi subsp. mandapamensis	Jp.B	False	False	NEITHER
+GCF_033448605.1	Photobacterium leiognathi subsp. mandapamensis	Jp.C	False	False	NEITHER
+GCF_033448625.1	Photobacterium leiognathi subsp. mandapamensis	Jp.BB	False	False	NEITHER
+GCF_033448645.1	Photobacterium leiognathi subsp. mandapamensis	Jp.M	False	False	NEITHER
+GCF_033448665.1	Photobacterium leiognathi subsp. mandapamensis	Jp.L2	False	False	NEITHER
+GCF_033448685.1	Photobacterium leiognathi subsp. mandapamensis	Jp.AA	False	False	NEITHER
+GCF_033448705.1	Photobacterium leiognathi subsp. mandapamensis	Jp.A	False	False	NEITHER
+GCF_033458845.1	Photobacterium leiognathi subsp. mandapamensis	Ph.DD2	False	False	NEITHER
+GCF_033458905.1	Photobacterium leiognathi subsp. mandapamensis	Ph.F	False	False	NEITHER
+GCF_036040035.1	Photobacterium sp. S4TG1	S4TG1	False	False	NEITHER
+GCF_036040095.1	Photobacterium toruni	S3MW1	False	False	NEITHER
+GCF_036040135.1	Photobacterium toruni	S2MW2	False	True	HDC2_ONLY
+GCF_036040195.1	Photobacterium piscicola	S5TY1	False	False	NEITHER
+GCF_036040205.1	Photobacterium piscicola	S4MW1	False	False	NEITHER
+GCF_036040255.1	Photobacterium piscicola	S2TG4	False	False	NEITHER
+GCF_036040395.1	Photobacterium piscicola	S1MW1	False	False	NEITHER
+GCF_036409375.1	Photobacterium sp. 53610	53610	False	False	NEITHER
+GCF_037389125.1	Photobacterium sp. MCCC 1A19761	MCCC 1A19761	False	False	NEITHER
+GCF_037997135.1	Photobacterium damselae subsp. piscicida	NH-LM2	True	False	HDC_ONLY
+GCF_038086615.1	Photobacterium damselae subsp. damselae	WMD-P1	True	False	HDC_ONLY
+GCF_038086725.1	Photobacterium damselae subsp. damselae	WMD-P2	False	False	NEITHER
+GCF_038086915.1	Photobacterium damselae subsp. damselae	WMD-P3	False	False	NEITHER
+GCF_038519165.1	Photobacterium sp. SP02	SP02	False	False	NEITHER
+GCF_041439435.1	Photobacterium swingsii	1F189	False	False	NEITHER
+GCF_041466445.1	Photobacterium swingsii	10N.247.310.62	False	False	NEITHER
+GCF_042430005.1	Photobacterium aphoticum	KCTC 23057	False	False	NEITHER
+GCF_043105905.1	Photobacterium damselae	GLN_4	False	False	NEITHER
+GCF_043106595.1	Photobacterium damselae	CJQ_10	False	False	NEITHER
+GCF_043419485.1	Photobacterium piscicola	HQB-471	False	False	NEITHER
+GCF_043641185.1	Photobacterium piscicola	HQB-471	False	False	NEITHER
+GCF_046058925.1	Photobacterium piscicola	WVL24019	False	False	NEITHER
+GCF_048537445.1	Photobacterium leiognathi subsp. mandapamensis	Sr1.18	False	False	NEITHER
+GCF_048537455.1	Photobacterium leiognathi subsp. mandapamensis	Sc9.10a	False	False	NEITHER
+GCF_048537465.1	Photobacterium leiognathi subsp. mandapamensis	Sc16.3	False	False	NEITHER
+GCF_048537505.1	Photobacterium leiognathi subsp. mandapamensis	Sr3.10	False	False	NEITHER
+GCF_048537515.1	Photobacterium leiognathi subsp. mandapamensis	Sr2.36	False	False	NEITHER
+GCF_048537525.1	Photobacterium leiognathi subsp. mandapamensis	Sr3.21	False	False	NEITHER
+GCF_048835935.1	Photobacterium damselae subsp. piscicida	DQ-SS1	False	False	NEITHER
+GCF_049315015.1	Photobacterium leiognathi subsp. mandapamensis	Sc2.50	False	False	NEITHER
+GCF_049563835.1	Photobacterium damselae	MRY0520	False	False	NEITHER
+GCF_050336695.1	Photobacterium minamisatsumaniensis	JAMM0388	False	False	NEITHER
+GCF_050336715.1	Photobacterium makurazakiensis	JAMM0395	False	False	NEITHER
+GCF_050336815.1	Photobacterium nomapromontoriensis	JAMM1727	False	False	NEITHER
+GCF_050337005.1	Photobacterium japonica	JAMM0518	False	False	NEITHER
+GCF_050337045.1	Photobacterium kagoshimensis	JAMM2471	False	False	NEITHER
+GCF_050337655.1	Photobacterium swingsii	JAMM0475	False	False	NEITHER
+GCF_050337795.1	Photobacterium angustum	JAMM1881	False	False	NEITHER
+GCF_050337985.1	Photobacterium indicum	JAMM1146	False	False	NEITHER
+GCF_050338095.1	Photobacterium profundum	JAMM0002	False	False	NEITHER
+GCF_050338335.1	Photobacterium profundum	JAMM0742	False	False	NEITHER
+GCF_050338375.1	Photobacterium profundum	JAMM1137	False	False	NEITHER
+GCF_050338475.1	Photobacterium swingsii	JAMM0680	False	False	NEITHER
+GCF_050338655.1	Photobacterium frigidiphilum	JAMM1151	False	False	NEITHER
+GCF_050338715.1	Photobacterium sanguinicancri	JAMM1840	False	False	NEITHER
+GCF_050875365.1	Photobacterium damselae	063	True	False	HDC_ONLY
+GCF_051046865.1	Photobacterium leiognathi subsp. mandapamensis	StP14.24	False	False	NEITHER
+GCF_051046875.1	Photobacterium leiognathi subsp. mandapamensis	StP18.12	False	False	NEITHER
+GCF_052805155.1	Photobacterium ganghwense	6.3D	False	False	NEITHER
+GCF_052873695.1	Photobacterium swingsii	PNB23_21_1	False	False	NEITHER
+GCF_052873755.1	Photobacterium swingsii	DNB22_17_2	False	False	NEITHER
+GCF_052873815.1	Photobacterium sp. DNB23_23_1	DNB23_23_1	False	False	NEITHER
+GCF_052873895.1	Photobacterium damselae	PNB23_22_8	True	False	HDC_ONLY
+GCF_052877355.1	Photobacterium damselae	PNB23_20_2	True	False	HDC_ONLY
+GCF_052877375.1	Photobacterium damselae	PNB23_20_10	True	False	HDC_ONLY
+GCF_052877475.1	Photobacterium damselae	PBN23_20_6	True	False	HDC_ONLY
+GCF_052877815.1	Photobacterium damselae	DNB23_25_6	False	False	NEITHER
+GCF_052877935.1	Photobacterium damselae	DNB23_25_1	False	False	NEITHER
+GCF_052878195.1	Photobacterium damselae	DNB23_24_8	False	False	NEITHER
+GCF_052878215.1	Photobacterium damselae	DNB23_24_7	False	False	NEITHER
+GCF_052878295.1	Photobacterium damselae	DNB23_24_6	False	False	NEITHER
+GCF_052878335.1	Photobacterium damselae	DNB23_24_5	True	False	HDC_ONLY
+GCF_052878375.1	Photobacterium damselae	DNB23_24_2	True	False	HDC_ONLY
+GCF_052878815.1	Photobacterium damselae	DNB23_23_2	False	False	NEITHER
+GCF_052879315.1	Photobacterium damselae	DNB23_23_10	False	False	NEITHER
+GCF_053005025.1	Photobacterium damselae	MS102	False	False	NEITHER
+GCF_053202905.1	Photobacterium damselae subsp. piscicida	QMA0776	False	False	NEITHER
+GCF_053850225.1	Photobacterium damselae subsp. damselae	SNUABM-JN1	True	False	HDC_ONLY
+GCF_054486505.1	Photobacterium damselae	AV16	False	False	NEITHER
+GCF_054486525.1	Photobacterium damselae	BV30	True	False	HDC_ONLY
+GCF_054486545.1	Photobacterium damselae	Jw224	False	False	NEITHER
+GCF_055456455.1	Photobacterium angustum	VR 661.45 661.45	False	False	NEITHER
+GCF_056234105.1	Photobacterium damselae subsp. piscicida	GalP1	False	False	NEITHER
+GCF_056234175.1	Photobacterium damselae subsp. piscicida	ML9	False	False	NEITHER
+GCF_056643155.1	Photobacterium damselae subsp. damselae	51718_1	False	False	NEITHER
+GCF_056675655.1	Photobacterium damselae subsp. damselae	OF2	True	False	HDC_ONLY
+GCF_056836685.1	Photobacterium damselae subsp. damselae	WF23	False	False	NEITHER
+GCF_057063665.1	Photobacterium damselae subsp. damselae	SF21	True	False	HDC_ONLY
+GCF_057922655.1	Photobacterium damselae	P08	True	False	HDC_ONLY
+GCF_057922685.1	Photobacterium damselae	T08	True	False	HDC_ONLY
+GCF_058072825.1	Photobacterium leiognathi subsp. mandapamensis	Sr3.28	False	False	NEITHER
+GCF_058072835.1	Photobacterium leiognathi subsp. mandapamensis	Sr3.20	False	False	NEITHER
+GCF_058072865.1	Photobacterium leiognathi subsp. mandapamensis	Sr3.18	False	False	NEITHER
+GCF_058072885.1	Photobacterium leiognathi subsp. mandapamensis	Sr3.5	False	False	NEITHER
+GCF_058072895.1	Photobacterium leiognathi subsp. mandapamensis	Sr2.20	False	False	NEITHER
+GCF_058072915.1	Photobacterium leiognathi subsp. mandapamensis	Sr2.16	False	False	NEITHER
+GCF_058072945.1	Photobacterium leiognathi subsp. mandapamensis	Sr1.7	False	False	NEITHER
+GCF_058072955.1	Photobacterium leiognathi subsp. mandapamensis	Sr1.11	False	False	NEITHER
+GCF_058073005.1	Photobacterium leiognathi subsp. mandapamensis	Sc1.10	False	False	NEITHER
+GCF_058273185.1	Photobacterium damselae subsp. piscicida	J23.1	False	False	NEITHER
+GCF_058410825.1	Photobacterium damselae subsp. piscicida	Y25OFS1	False	False	NEITHER
+GCF_059492265.1	Photobacterium damselae subsp. damselae	GCUPdd	True	False	HDC_ONLY
+GCF_059623475.1	Photobacterium ganghwense	CF1.2	False	False	NEITHER
+GCF_059727865.1	Photobacterium damselae subsp. damselae	TUMSAT-PD4	False	False	NEITHER
+GCF_059727875.1	Photobacterium damselae subsp. damselae	TUMSAT-PD3	False	False	NEITHER
+GCF_059727885.1	Photobacterium damselae subsp. damselae	TUMSAT-PD2	False	False	NEITHER
+GCF_059727895.1	Photobacterium damselae subsp. damselae	TUMSAT-PD1	False	False	NEITHER
+GCF_059735745.1	Photobacterium damselae	HNDF01	True	False	HDC_ONLY
+GCF_059740845.1	Photobacterium damselae subsp. damselae	PDD-SF-2	False	False	NEITHER
+GCF_059740915.1	Photobacterium damselae subsp. damselae	PDD-SF-3	False	False	NEITHER
+GCF_059740945.1	Photobacterium damselae subsp. damselae	PDD-SF-5	False	False	NEITHER
+GCF_059749295.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059749375.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059749395.1	Photobacterium phosphoreum		False	False	NEITHER
+GCF_059761285.1	Photobacterium piscicola		False	False	NEITHER
+GCF_059761325.1	Photobacterium piscicola		False	False	NEITHER
+GCF_059761345.1	Photobacterium piscicola		False	False	NEITHER
+GCF_059761365.1	Photobacterium piscicola		False	False	NEITHER
+GCF_059761385.1	Photobacterium piscicola		False	False	NEITHER
+GCF_059761395.1	Photobacterium piscicola		False	False	NEITHER
+GCF_059761425.1	Photobacterium phosphoreum		False	False	NEITHER
+GCF_059761445.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059761455.1	Photobacterium phosphoreum		False	False	NEITHER
+GCF_059761485.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059761505.1	Photobacterium phosphoreum		False	False	NEITHER
+GCF_059761525.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059761545.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059761565.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059761585.1	Photobacterium phosphoreum		False	False	NEITHER
+GCF_059761605.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059761625.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059761645.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059761665.1	Photobacterium phosphoreum		False	False	NEITHER
+GCF_059761705.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059761725.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059761745.1	Photobacterium phosphoreum		False	True	HDC2_ONLY
+GCF_059761755.1	Photobacterium iliopiscarium		False	False	NEITHER
+GCF_059761785.1	Photobacterium iliopiscarium		False	False	NEITHER
+GCF_059761805.1	Photobacterium iliopiscarium		False	False	NEITHER
+GCF_059761825.1	Photobacterium iliopiscarium		False	False	NEITHER
+GCF_059761845.1	Photobacterium iliopiscarium		False	False	NEITHER
+GCF_059761855.1	Photobacterium iliopiscarium		False	False	NEITHER
+GCF_059761885.1	Photobacterium iliopiscarium		False	False	NEITHER
+GCF_059761905.1	Photobacterium iliopiscarium		False	False	NEITHER
+GCF_059761915.1	Photobacterium iliopiscarium		False	False	NEITHER
+GCF_059784805.1	Photobacterium damselae subsp. damselae	YC211109	True	False	HDC_ONLY
+GCF_059833865.1	Photobacterium damselae		False	False	NEITHER
+GCF_059920555.1	Photobacterium panuliri	JCM 19199	False	False	NEITHER
+GCF_059941365.1	Photobacterium sp. 270122K	270122K	False	False	NEITHER
+GCF_060143805.1	Photobacterium leiognathi subsp. mandapamensis	Sc7.11	False	False	NEITHER
+GCF_900166965.1	Photobacterium piscicola	NCCB 100098T	False	False	NEITHER
+GCF_900166975.1	Photobacterium toruni	CECT 9189T	False	False	NEITHER
+GCF_900185565.1	Photobacterium aquimaris	CECT 9191	True	False	HDC_ONLY
+GCF_900185615.1	Photobacterium malacitanum	CECT 9190T	False	False	NEITHER
+GCF_900185625.1	Photobacterium andalusiense	CECT 9192T	True	False	HDC_ONLY
+GCF_900454585.1	Photobacterium damselae	NCTC11647	True	False	HDC_ONLY
+GCF_900454595.1	Photobacterium damselae	NCTC11648	True	False	HDC_ONLY
+GCF_900454675.1	Photobacterium damselae	NCTC11646	True	False	HDC_ONLY
+GCF_900537155.1	Photobacterium sp. Alg240-V54		True	False	HDC_ONLY
+GCF_947498665.1	Photobacterium sanguinicancri		False	False	NEITHER
+GCF_949787665.1	Photobacterium phosphoreum	MIP2473	False	True	HDC2_ONLY
+GCF_963886165.1	Photobacterium lucens		False	False	NEITHER
+GCF_965118505.1	Photobacterium phosphoreum	SF1731	False	True	HDC2_ONLY
+GCF_965118525.1	Photobacterium phosphoreum	SF661-B	False	True	HDC2_ONLY
+GCF_965119175.1	Photobacterium phosphoreum	MIP2569	False	True	HDC2_ONLY
+GCF_965119195.1	Photobacterium phosphoreum	MIP2586	False	False	NEITHER

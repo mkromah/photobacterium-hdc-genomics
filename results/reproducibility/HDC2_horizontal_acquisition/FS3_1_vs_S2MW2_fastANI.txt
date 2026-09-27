@@ -1,0 +1,1 @@
+/home/musakromah_mk86/photobacterium-hdc-project/data/raw/photobacterium_primary_500_ncbi/ncbi_dataset/data/GCF_001676275.1/GCF_001676275.1_ASM167627v1_genomic.fna	/home/musakromah_mk86/photobacterium-hdc-project/data/raw/photobacterium_primary_500_ncbi/ncbi_dataset/data/GCF_036040135.1/GCF_036040135.1_ASM3604013v1_genomic.fna	86.3171	1081	1579

@@ -1,0 +1,29 @@
+Analysis	Metric	Result
+Dataset	Final Photobacterium genomes	497
+HDC prevalence	Conventional HDC-positive genomes	98
+HDC2 prevalence	HDC2-positive genomes	36
+HDC/HDC2 overlap	Genomes containing both systems	3
+Taxon association	Monte Carlo permutation p-value	9.9999e-06
+Taxon association	Cramer's V	0.5843
+Conventional HDC context	hisS nearby	98/98 (100%)
+Conventional HDC context	Confirmed transporter	98/98 evaluable (100%)
+HDC2 context	hisS nearby	36/36 (100%)
+HDC2 context	Complete HDC2 clusters	32/36
+HDC2 context	Boundary-supported clusters	4/36
+HDC gene tree	Strong supported splits	4
+HDC gene tree	Strong splits concordant with species tree	3
+HDC gene tree	Strong splits discordant with species tree	1
+HDC2 gene tree	Strong supported splits	4
+HDC2 gene tree	Strong splits concordant with species tree	1
+HDC2 gene tree	Strong splits discordant with species tree	3
+HDC2 sensitivity	Strong splits retained after FS3_1 exclusion	3/3 shared
+FS3_1-S2MW2	HDC2 global comparable-site identity	97.059%
+FS3_1-S2MW2	Cross-species HDC2 global-identity rank	42/162
+FS3_1-S2MW2	16-kb locus nucleotide identity	99.513%
+FS3_1-S2MW2	16-kb locus query coverage	100%
+FS3_1-S2MW2	Whole-genome ANI	~86.32%
+FS3_1-S2MW2	FS3_1 HDC2-bearing contig length	23907 bp
+FS3_1-S2MW2	Near-identical contig sequence	22897 bp
+FS3_1-S2MW2	FS3_1 contig coverage	95.78%
+FS3_1-S2MW2	Weighted nucleotide identity	99.590%
+FS3_1-S2MW2	Interpretation	Strongly consistent with recent mobile-element-mediated horizontal acquisition; direction unresolved

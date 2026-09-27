@@ -1,0 +1,37 @@
+System	Assembly Accession	Organism Name	Strain	Target Protein	Target Copy Count	Contig	Target Start	Target End	Target Strand	hisS_found_same_contig	nearest_hisS_distance_bp	nearest_hisS_protein	nearest_hisS_product	transporter_found_same_contig	nearest_transporter_distance_bp	nearest_transporter_protein	nearest_transporter_product
+HDC2	GCF_000613045.3	Photobacterium kishitanii	ANT-2200	WP_054262195.1	1	NZ_LN794353.1	1017218	1019533	-	True	102	WP_036791915.1	histidine--tRNA ligase	True	212	WP_237043579.1	amino acid permease
+HDC2	GCF_001676135.1	Photobacterium phosphoreum	AK-3	WP_065193859.1	1	NZ_LZFE01000067.1	52403	54715	-	True	106	WP_065193858.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_001676195.1	Photobacterium phosphoreum	FS1_1	WP_065194415.1	1	NZ_LZFF01000006.1	9228	11540	-	True	106	WP_065194414.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_001676275.1	Photobacterium phosphoreum	FS3_1	WP_202908000.1	1	NZ_LZFG01000058.1	18832	20874	-	True	376	WP_065208647.1	histidine--tRNA ligase	True	202	WP_065208648.1	amino acid permease
+HDC2	GCF_003025775.1	Photobacterium phosphoreum	FS-4.2	WP_107303299.1	1	NZ_PYMS01000002.1	13	2325	+	True	106	WP_107188119.1	histidine--tRNA ligase	True	3722	WP_065193855.1	C4-dicarboxylate transporter DcuC
+HDC2	GCF_003025795.1	Photobacterium phosphoreum	FS-2.1	WP_065194415.1	1	NZ_PYMX01000013.1	90799	93111	+	True	106	WP_107197511.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_003025815.1	Photobacterium phosphoreum	FS-1.2	WP_338090079.1	1	NZ_PYMY01000076.1	1393	3687	-	True	106	WP_107305598.1	histidine--tRNA ligase	False			
+HDC2	GCF_003025855.1	Photobacterium phosphoreum	FS-1.1	WP_065194415.1	1	NZ_PYMZ01000003.1	215600	217912	-	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_003025875.1	Photobacterium phosphoreum	AK-8	WP_338133856.1	1	NZ_PYNA01000114.1	1525	3822	-	True	108	WP_107214086.1	histidine--tRNA ligase	False			
+HDC2	GCF_003025935.1	Photobacterium kishitanii	FS-7.1	WP_107226104.1	1	NZ_PYNG01000075.1	1924	4239	-	True	102	WP_036791915.1	histidine--tRNA ligase	True	218	WP_240000653.1	amino acid permease
+HDC2	GCF_003025995.1	Photobacterium kishitanii	Og61	WP_054262195.1	1	NZ_PYNM01000007.1	318167	320482	+	True	102	WP_107285957.1	histidine--tRNA ligase	True	217	WP_237043579.1	amino acid permease
+HDC2	GCF_003026545.1	Photobacterium phosphoreum	FS-2.3	WP_065194415.1	1	NZ_PYMV01000018.1	90700	93012	+	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_003026615.1	Photobacterium phosphoreum	AK-3	WP_065193859.1	1	NZ_PYND01000002.1	96217	98529	-	True	106	WP_065193858.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_021236685.1	Photobacterium phosphoreum	TMW2.2130	WP_065194415.1	1	NZ_WMCW01000011.1	85082	87394	+	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_021236705.1	Photobacterium phosphoreum	TMW2.2126	WP_232573904.1	1	NZ_WMCX01000006.1	56116	58428	-	True	106	WP_232573903.1	histidine--tRNA ligase	True	203	WP_232573905.1	amino acid permease
+HDC2	GCF_021236805.1	Photobacterium carnosum	TMW2.2187	WP_232575933.1	1	NZ_WMDD01000008.1	180179	182494	-	True	104	WP_232575932.1	histidine--tRNA ligase	True	185	WP_232575934.1	amino acid permease
+HDC2	GCF_021237025.1	Photobacterium phosphoreum	TMW22033	WP_065194415.1	1	NZ_NQLT01000002.1	285059	287371	+	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_021237045.1	Photobacterium phosphoreum	TMW22034	WP_065194415.1	1	NZ_NQLU01000001.1	357241	359553	-	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_036040135.1	Photobacterium toruni	S2MW2	WP_327777331.1	1	NZ_JAYXUF010000024.1	7139	9448	+	True	108	WP_065208647.1	histidine--tRNA ligase	True	202	WP_065208648.1	amino acid permease
+HDC2	GCF_059749295.1	Photobacterium phosphoreum		WP_107303299.1	1	NZ_JCAYQD010000015.1	83676	85988	+	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_059749375.1	Photobacterium phosphoreum		WP_065194415.1	1	NZ_JCAYQE010000085.1	10725	13037	-	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_059761445.1	Photobacterium phosphoreum		WP_107303299.1	1	NZ_JCAYPN010000002.1	84648	86960	+	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_059761485.1	Photobacterium phosphoreum		WP_107303299.1	1	NZ_JCAYPP010000002.1	184025	186337	-	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_059761525.1	Photobacterium phosphoreum		WP_107303299.1	1	NZ_JCAYPR010000002.1	92295	94607	+	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_059761545.1	Photobacterium phosphoreum		WP_498207788.1	1	NZ_JCAYPS010000009.1	3227	5539	-	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_059761565.1	Photobacterium phosphoreum		WP_065194415.1	1	NZ_JCAYPT010000013.1	2671	4983	-	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_059761605.1	Photobacterium phosphoreum		WP_498163305.1	1	NZ_JCAYPV010000234.1	1	2250	+	True	106	WP_107188119.1	histidine--tRNA ligase	False			
+HDC2	GCF_059761625.1	Photobacterium phosphoreum		WP_065194415.1	1	NZ_JCAYPW010000139.1	1880	4192	+	True	106	WP_107197511.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_059761645.1	Photobacterium phosphoreum		WP_065194415.1	1	NZ_JCAYPX010000160.1	141	2453	+	True	106	WP_498186463.1	histidine--tRNA ligase	False			
+HDC2	GCF_059761705.1	Photobacterium phosphoreum		WP_107303299.1	1	NZ_JCAYQA010000007.1	85471	87783	+	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_059761725.1	Photobacterium phosphoreum		WP_413516788.1	1	NZ_JCAYQB010000021.1	83688	86000	+	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_059761745.1	Photobacterium phosphoreum		WP_413516788.1	1	NZ_JCAYQC010000009.1	1449	3761	-	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_949787665.1	Photobacterium phosphoreum	MIP2473	WP_107303299.1	1	NZ_OX460910.1	1410361	1412673	-	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_965118505.1	Photobacterium phosphoreum	SF1731	WP_413516788.1	1	NZ_CBCPHZ010000011.1	49608	51920	-	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_965118525.1	Photobacterium phosphoreum	SF661-B	WP_107303299.1	1	NZ_CBCPIA010000002.1	52701	55013	+	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease
+HDC2	GCF_965119175.1	Photobacterium phosphoreum	MIP2569	WP_413505860.1	1	NZ_CBCPKF010000009.1	49936	52248	-	True	106	WP_107188119.1	histidine--tRNA ligase	True	203	WP_065193860.1	amino acid permease

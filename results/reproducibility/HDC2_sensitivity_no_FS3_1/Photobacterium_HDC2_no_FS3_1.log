@@ -1,0 +1,343 @@
+IQ-TREE version 3.1.3 for Linux x86 64-bit built Jul 26 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    photobacterium-vm (AVX2, FMA3, 31 GB RAM)
+Command: iqtree -s /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1_aligned.faa -m MFP -B 1000 --alrt 1000 -T AUTO -seed 20260927 -pre /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1 -redo
+Seed:    20260927 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sat Sep 26 23:31:06 2026
+Kernel:  AVX+FMA - auto-detect threads (8 CPU cores detected)
+
+Reading alignment file /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1_aligned.faa ... Fasta format detected
+Reading fasta file: done in 0.000694036 secs using 95.38% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.0020299 secs using 687.6% CPU
+Alignment has 35 sequences with 771 columns, 140 distinct patterns
+51 parsimony-informative, 66 singleton sites, 654 constant sites
+                                                                     Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 1.5974e-05 secs using 87.64% CPU
+   1  GCF_000613045.3|WP_054262195.1|Photobacterium_kishitanii|ANT-2200      0.00%    passed    100.00%
+   2  GCF_001676135.1|WP_065193859.1|Photobacterium_phosphoreum|AK-3         0.13%    passed    100.00%
+   3  GCF_001676195.1|WP_065194415.1|Photobacterium_phosphoreum|FS1_1        0.13%    passed    100.00%
+   4  GCF_003025775.1|WP_107303299.1|Photobacterium_phosphoreum|FS-4.2       0.13%    passed    100.00%
+   5  GCF_003025795.1|WP_065194415.1|Photobacterium_phosphoreum|FS-2.1       0.13%    passed    100.00%
+   6  GCF_003025815.1|WP_338090079.1|Photobacterium_phosphoreum|FS-1.2       0.91%    passed    100.00%
+   7  GCF_003025855.1|WP_065194415.1|Photobacterium_phosphoreum|FS-1.1       0.13%    passed    100.00%
+   8  GCF_003025875.1|WP_338133856.1|Photobacterium_phosphoreum|AK-8         0.78%    passed     99.21%
+   9  GCF_003025935.1|WP_107226104.1|Photobacterium_kishitanii|FS-7.1        0.00%    passed    100.00%
+  10  GCF_003025995.1|WP_054262195.1|Photobacterium_kishitanii|Og61          0.00%    passed    100.00%
+  11  GCF_003026545.1|WP_065194415.1|Photobacterium_phosphoreum|FS-2.3       0.13%    passed    100.00%
+  12  GCF_003026615.1|WP_065193859.1|Photobacterium_phosphoreum|AK-3         0.13%    passed    100.00%
+  13  GCF_021236685.1|WP_065194415.1|Photobacterium_phosphoreum|TMW2.2130    0.13%    passed    100.00%
+  14  GCF_021236705.1|WP_232573904.1|Photobacterium_phosphoreum|TMW2.2126    0.13%    passed    100.00%
+  15  GCF_021236805.1|WP_232575933.1|Photobacterium_carnosum|TMW2.2187       0.00%    passed    100.00%
+  16  GCF_021237025.1|WP_065194415.1|Photobacterium_phosphoreum|TMW22033     0.13%    passed    100.00%
+  17  GCF_021237045.1|WP_065194415.1|Photobacterium_phosphoreum|TMW22034     0.13%    passed    100.00%
+  18  GCF_036040135.1|WP_327777331.1|Photobacterium_toruni|S2MW2             0.26%    passed    100.00%
+  19  GCF_059749295.1|WP_107303299.1|Photobacterium_phosphoreum              0.13%    passed    100.00%
+  20  GCF_059749375.1|WP_065194415.1|Photobacterium_phosphoreum              0.13%    passed    100.00%
+  21  GCF_059761445.1|WP_107303299.1|Photobacterium_phosphoreum              0.13%    passed    100.00%
+  22  GCF_059761485.1|WP_107303299.1|Photobacterium_phosphoreum              0.13%    passed    100.00%
+  23  GCF_059761525.1|WP_107303299.1|Photobacterium_phosphoreum              0.13%    passed    100.00%
+  24  GCF_059761545.1|WP_498207788.1|Photobacterium_phosphoreum              0.13%    passed    100.00%
+  25  GCF_059761565.1|WP_065194415.1|Photobacterium_phosphoreum              0.13%    passed    100.00%
+  26  GCF_059761605.1|WP_498163305.1|Photobacterium_phosphoreum              2.85%    passed    100.00%
+  27  GCF_059761625.1|WP_065194415.1|Photobacterium_phosphoreum              0.13%    passed    100.00%
+  28  GCF_059761645.1|WP_065194415.1|Photobacterium_phosphoreum              0.13%    passed    100.00%
+  29  GCF_059761705.1|WP_107303299.1|Photobacterium_phosphoreum              0.13%    passed    100.00%
+  30  GCF_059761725.1|WP_413516788.1|Photobacterium_phosphoreum              0.13%    passed    100.00%
+  31  GCF_059761745.1|WP_413516788.1|Photobacterium_phosphoreum              0.13%    passed    100.00%
+  32  GCF_949787665.1|WP_107303299.1|Photobacterium_phosphoreum|MIP2473      0.13%    passed    100.00%
+  33  GCF_965118505.1|WP_413516788.1|Photobacterium_phosphoreum|SF1731       0.13%    passed    100.00%
+  34  GCF_965118525.1|WP_107303299.1|Photobacterium_phosphoreum|SF661-B      0.13%    passed    100.00%
+  35  GCF_965119175.1|WP_413505860.1|Photobacterium_phosphoreum|MIP2569      0.13%    passed    100.00%
+****  TOTAL                                                                  0.24%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: GCF_003025995.1|WP_054262195.1|Photobacterium_kishitanii|Og61 is identical to GCF_000613045.3|WP_054262195.1|Photobacterium_kishitanii|ANT-2200 but kept for subsequent analysis
+NOTE: GCF_003026615.1|WP_065193859.1|Photobacterium_phosphoreum|AK-3 is identical to GCF_001676135.1|WP_065193859.1|Photobacterium_phosphoreum|AK-3 but kept for subsequent analysis
+NOTE: GCF_003025795.1|WP_065194415.1|Photobacterium_phosphoreum|FS-2.1 is identical to GCF_001676195.1|WP_065194415.1|Photobacterium_phosphoreum|FS1_1 but kept for subsequent analysis
+NOTE: GCF_059749295.1|WP_107303299.1|Photobacterium_phosphoreum is identical to GCF_003025775.1|WP_107303299.1|Photobacterium_phosphoreum|FS-4.2 but kept for subsequent analysis
+NOTE: GCF_059761745.1|WP_413516788.1|Photobacterium_phosphoreum is identical to GCF_059761725.1|WP_413516788.1|Photobacterium_phosphoreum but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.000253916 secs using 775.8% CPU
+Identifying sites to remove: done in 0.000429153 secs using 799.7% CPU
+NOTE: 16 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: GCF_003025855.1|WP_065194415.1|Photobacterium_phosphoreum|FS-1.1 (identical to GCF_001676195.1|WP_065194415.1|Photobacterium_phosphoreum|FS1_1) is ignored but added at the end
+NOTE: GCF_003026545.1|WP_065194415.1|Photobacterium_phosphoreum|FS-2.3 (identical to GCF_001676195.1|WP_065194415.1|Photobacterium_phosphoreum|FS1_1) is ignored but added at the end
+NOTE: GCF_021236685.1|WP_065194415.1|Photobacterium_phosphoreum|TMW2.2130 (identical to GCF_001676195.1|WP_065194415.1|Photobacterium_phosphoreum|FS1_1) is ignored but added at the end
+NOTE: GCF_021237025.1|WP_065194415.1|Photobacterium_phosphoreum|TMW22033 (identical to GCF_001676195.1|WP_065194415.1|Photobacterium_phosphoreum|FS1_1) is ignored but added at the end
+NOTE: GCF_021237045.1|WP_065194415.1|Photobacterium_phosphoreum|TMW22034 (identical to GCF_001676195.1|WP_065194415.1|Photobacterium_phosphoreum|FS1_1) is ignored but added at the end
+NOTE: GCF_059749375.1|WP_065194415.1|Photobacterium_phosphoreum (identical to GCF_001676195.1|WP_065194415.1|Photobacterium_phosphoreum|FS1_1) is ignored but added at the end
+NOTE: GCF_059761565.1|WP_065194415.1|Photobacterium_phosphoreum (identical to GCF_001676195.1|WP_065194415.1|Photobacterium_phosphoreum|FS1_1) is ignored but added at the end
+NOTE: GCF_059761625.1|WP_065194415.1|Photobacterium_phosphoreum (identical to GCF_001676195.1|WP_065194415.1|Photobacterium_phosphoreum|FS1_1) is ignored but added at the end
+NOTE: GCF_059761645.1|WP_065194415.1|Photobacterium_phosphoreum (identical to GCF_001676195.1|WP_065194415.1|Photobacterium_phosphoreum|FS1_1) is ignored but added at the end
+NOTE: GCF_059761445.1|WP_107303299.1|Photobacterium_phosphoreum (identical to GCF_003025775.1|WP_107303299.1|Photobacterium_phosphoreum|FS-4.2) is ignored but added at the end
+NOTE: GCF_059761485.1|WP_107303299.1|Photobacterium_phosphoreum (identical to GCF_003025775.1|WP_107303299.1|Photobacterium_phosphoreum|FS-4.2) is ignored but added at the end
+NOTE: GCF_059761525.1|WP_107303299.1|Photobacterium_phosphoreum (identical to GCF_003025775.1|WP_107303299.1|Photobacterium_phosphoreum|FS-4.2) is ignored but added at the end
+NOTE: GCF_059761705.1|WP_107303299.1|Photobacterium_phosphoreum (identical to GCF_003025775.1|WP_107303299.1|Photobacterium_phosphoreum|FS-4.2) is ignored but added at the end
+NOTE: GCF_949787665.1|WP_107303299.1|Photobacterium_phosphoreum|MIP2473 (identical to GCF_003025775.1|WP_107303299.1|Photobacterium_phosphoreum|FS-4.2) is ignored but added at the end
+NOTE: GCF_965118525.1|WP_107303299.1|Photobacterium_phosphoreum|SF661-B (identical to GCF_003025775.1|WP_107303299.1|Photobacterium_phosphoreum|FS-4.2) is ignored but added at the end
+NOTE: GCF_965118505.1|WP_413516788.1|Photobacterium_phosphoreum|SF1731 (identical to GCF_059761725.1|WP_413516788.1|Photobacterium_phosphoreum) is ignored but added at the end
+Alignment was printed to /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+Measuring multi-threading efficiency up to 8 CPU cores
+Increase to 10 rounds for branch lengths
+198 trees examined
+Threads: 1 / Time: 8.034 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -3673
+Threads: 2 / Time: 4.738 sec / Speedup: 1.695 / Efficiency: 85% / LogL: -3673
+Threads: 3 / Time: 3.617 sec / Speedup: 2.221 / Efficiency: 74% / LogL: -3673
+Threads: 4 / Time: 2.976 sec / Speedup: 2.699 / Efficiency: 67% / LogL: -3673
+Threads: 5 / Time: 2.989 sec / Speedup: 2.688 / Efficiency: 54% / LogL: -3673
+Threads: 6 / Time: 2.917 sec / Speedup: 2.754 / Efficiency: 46% / LogL: -3673
+Determining AUTO threadcount: done in 25.2732 secs using 292.7% CPU
+BEST NUMBER OF THREADS: 4
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -3180.970
+Optimal log-likelihood: -3180.969
+Proportion of invariable sites: 0.424
+Gamma shape alpha: 1.071
+Parameters optimization took 1 rounds (0.014 sec)
+Time for fast ML tree search: 0.059 seconds
+
+NOTE: ModelFinder requires 5 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 771 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+Akaike Information Criterion:           CPREV+F+I
+Corrected Akaike Information Criterion: CPREV+F+I
+Bayesian Information Criterion:         Q.PLANT+I
+Best-fit model: Q.PLANT+I chosen according to BIC
+
+All model information printed to /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.model.gz
+CPU time for ModelFinder: 92.884 seconds (0h:1m:32s)
+Wall-clock time for ModelFinder: 29.897 seconds (0h:0m:29s)
+Generating 1000 samples for ultrafast bootstrap (seed: 20260927)...
+
+NOTE: 1 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -3162.908
+2. Current log-likelihood: -3162.290
+Optimal log-likelihood: -3162.284
+Proportion of invariable sites: 0.662
+Parameters optimization took 2 rounds (0.009 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.00366902 secs using 403.1% CPU
+Computing ML distances took 0.003768 sec (of wall-clock time) 0.015112 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 6.50883e-05 secs using 683.7% CPU
+Constructing RapidNJ tree: done in 0.000442982 secs using 268.4% CPU
+Computing RapidNJ tree took 0.000587 sec (of wall-clock time) 0.001735 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -3162.292
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.083 second
+Computing log-likelihood of 98 initial trees ... 0.139 seconds
+Current best score: -3162.284
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -3162.284
+BETTER TREE FOUND at iteration 3: -3162.277
+BETTER TREE FOUND at iteration 7: -3162.277
+BETTER TREE FOUND at iteration 8: -3162.277
+Iteration 10 / LogL: -3162.277 / Time: 0h:0m:30s
+Iteration 20 / LogL: -3162.277 / Time: 0h:0m:30s
+Finish initializing candidate tree set (20)
+Current best tree score: -3162.277 / CPU time: 0.495
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -3183.009 / Time: 0h:0m:30s (0h:0m:2s left)
+Iteration 40 / LogL: -3162.277 / Time: 0h:0m:30s (0h:0m:1s left)
+Iteration 50 / LogL: -3162.278 / Time: 0h:0m:31s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -3183.917
+Iteration 60 / LogL: -3162.280 / Time: 0h:0m:31s (0h:0m:1s left)
+Iteration 70 / LogL: -3162.279 / Time: 0h:0m:31s (0h:0m:1s left)
+Iteration 80 / LogL: -3162.279 / Time: 0h:0m:32s (0h:0m:0s left)
+Iteration 90 / LogL: -3167.129 / Time: 0h:0m:32s (0h:0m:0s left)
+Iteration 100 / LogL: -3162.278 / Time: 0h:0m:32s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3185.328
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.985
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -3162.280 / Time: 0h:0m:32s (0h:0m:2s left)
+BETTER TREE FOUND at iteration 113: -3162.277
+Iteration 120 / LogL: -3162.277 / Time: 0h:0m:33s (0h:0m:2s left)
+Iteration 130 / LogL: -3167.128 / Time: 0h:0m:33s (0h:0m:2s left)
+Iteration 140 / LogL: -3162.277 / Time: 0h:0m:33s (0h:0m:2s left)
+Iteration 150 / LogL: -3162.277 / Time: 0h:0m:33s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -3185.642
+Iteration 160 / LogL: -3168.199 / Time: 0h:0m:34s (0h:0m:1s left)
+Iteration 170 / LogL: -3168.455 / Time: 0h:0m:34s (0h:0m:1s left)
+Iteration 180 / LogL: -3183.008 / Time: 0h:0m:34s (0h:0m:0s left)
+Iteration 190 / LogL: -3162.278 / Time: 0h:0m:35s (0h:0m:0s left)
+Iteration 200 / LogL: -3162.278 / Time: 0h:0m:35s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3186.847
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.988
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 210 / LogL: -3162.281 / Time: 0h:0m:35s (0h:0m:2s left)
+Iteration 220 / LogL: -3183.010 / Time: 0h:0m:36s (0h:0m:2s left)
+Iteration 230 / LogL: -3162.281 / Time: 0h:0m:36s (0h:0m:1s left)
+Iteration 240 / LogL: -3162.279 / Time: 0h:0m:36s (0h:0m:1s left)
+Iteration 250 / LogL: -3162.279 / Time: 0h:0m:36s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -3189.852
+Iteration 260 / LogL: -3185.192 / Time: 0h:0m:37s (0h:0m:1s left)
+Iteration 270 / LogL: -3162.280 / Time: 0h:0m:37s (0h:0m:0s left)
+Iteration 280 / LogL: -3162.278 / Time: 0h:0m:37s (0h:0m:0s left)
+Iteration 290 / LogL: -3162.277 / Time: 0h:0m:38s (0h:0m:0s left)
+Iteration 300 / LogL: -3191.349 / Time: 0h:0m:38s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3190.103
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.982
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 310 / LogL: -3162.282 / Time: 0h:0m:38s (0h:0m:2s left)
+Iteration 320 / LogL: -3162.280 / Time: 0h:0m:39s (0h:0m:2s left)
+Iteration 330 / LogL: -3162.277 / Time: 0h:0m:39s (0h:0m:1s left)
+Iteration 340 / LogL: -3162.281 / Time: 0h:0m:39s (0h:0m:1s left)
+Iteration 350 / LogL: -3162.278 / Time: 0h:0m:39s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -3190.166
+Iteration 360 / LogL: -3162.279 / Time: 0h:0m:40s (0h:0m:1s left)
+Iteration 370 / LogL: -3183.010 / Time: 0h:0m:40s (0h:0m:0s left)
+Iteration 380 / LogL: -3162.278 / Time: 0h:0m:40s (0h:0m:0s left)
+Iteration 390 / LogL: -3162.277 / Time: 0h:0m:41s (0h:0m:0s left)
+Iteration 400 / LogL: -3162.277 / Time: 0h:0m:41s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3190.362
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.986
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 410 / LogL: -3162.277 / Time: 0h:0m:41s (0h:0m:2s left)
+Iteration 420 / LogL: -3183.012 / Time: 0h:0m:42s (0h:0m:2s left)
+Iteration 430 / LogL: -3183.010 / Time: 0h:0m:42s (0h:0m:2s left)
+Iteration 440 / LogL: -3162.279 / Time: 0h:0m:42s (0h:0m:1s left)
+Iteration 450 / LogL: -3162.280 / Time: 0h:0m:43s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -3190.362
+Iteration 460 / LogL: -3162.278 / Time: 0h:0m:43s (0h:0m:1s left)
+BETTER TREE FOUND at iteration 470: -3162.277
+Iteration 470 / LogL: -3162.277 / Time: 0h:0m:43s (0h:0m:2s left)
+Iteration 480 / LogL: -3162.278 / Time: 0h:0m:44s (0h:0m:2s left)
+Iteration 490 / LogL: -3162.278 / Time: 0h:0m:44s (0h:0m:2s left)
+Iteration 500 / LogL: -3162.278 / Time: 0h:0m:44s (0h:0m:2s left)
+Log-likelihood cutoff on original alignment: -3190.166
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.984
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 510 / LogL: -3162.277 / Time: 0h:0m:45s (0h:0m:2s left)
+BETTER TREE FOUND at iteration 514: -3162.277
+Iteration 520 / LogL: -3162.278 / Time: 0h:0m:45s (0h:0m:2s left)
+Iteration 530 / LogL: -3162.281 / Time: 0h:0m:45s (0h:0m:2s left)
+Iteration 540 / LogL: -3162.281 / Time: 0h:0m:46s (0h:0m:2s left)
+Iteration 550 / LogL: -3185.193 / Time: 0h:0m:46s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -3190.272
+Iteration 560 / LogL: -3162.278 / Time: 0h:0m:46s (0h:0m:1s left)
+Iteration 570 / LogL: -3185.190 / Time: 0h:0m:47s (0h:0m:1s left)
+Iteration 580 / LogL: -3162.278 / Time: 0h:0m:47s (0h:0m:1s left)
+UPDATE BEST LOG-LIKELIHOOD: -3162.277
+Iteration 590 / LogL: -3162.278 / Time: 0h:0m:47s (0h:0m:0s left)
+Iteration 600 / LogL: -3162.277 / Time: 0h:0m:48s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3190.272
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.982
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 610 / LogL: -3183.010 / Time: 0h:0m:48s (0h:0m:2s left)
+Iteration 620 / LogL: -3162.277 / Time: 0h:0m:48s (0h:0m:2s left)
+Iteration 630 / LogL: -3162.277 / Time: 0h:0m:49s (0h:0m:2s left)
+Iteration 640 / LogL: -3162.278 / Time: 0h:0m:49s (0h:0m:1s left)
+Iteration 650 / LogL: -3174.612 / Time: 0h:0m:49s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -3190.272
+Iteration 660 / LogL: -3162.279 / Time: 0h:0m:50s (0h:0m:1s left)
+Iteration 670 / LogL: -3162.278 / Time: 0h:0m:50s (0h:0m:0s left)
+Iteration 680 / LogL: -3168.453 / Time: 0h:0m:50s (0h:0m:0s left)
+Iteration 690 / LogL: -3167.127 / Time: 0h:0m:51s (0h:0m:0s left)
+Iteration 700 / LogL: -3162.279 / Time: 0h:0m:51s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3191.406
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.972
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 710 / LogL: -3191.070 / Time: 0h:0m:51s (0h:0m:2s left)
+Iteration 720 / LogL: -3162.279 / Time: 0h:0m:52s (0h:0m:2s left)
+Iteration 730 / LogL: -3168.456 / Time: 0h:0m:52s (0h:0m:2s left)
+Iteration 740 / LogL: -3169.581 / Time: 0h:0m:52s (0h:0m:1s left)
+Iteration 750 / LogL: -3162.278 / Time: 0h:0m:53s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -3190.987
+Iteration 760 / LogL: -3162.279 / Time: 0h:0m:53s (0h:0m:1s left)
+Iteration 770 / LogL: -3162.280 / Time: 0h:0m:53s (0h:0m:0s left)
+Iteration 780 / LogL: -3162.281 / Time: 0h:0m:54s (0h:0m:0s left)
+Iteration 790 / LogL: -3167.128 / Time: 0h:0m:54s (0h:0m:0s left)
+Iteration 800 / LogL: -3162.279 / Time: 0h:0m:54s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3190.987
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.966
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 810 / LogL: -3162.278 / Time: 0h:0m:55s (0h:0m:2s left)
+Iteration 820 / LogL: -3162.280 / Time: 0h:0m:55s (0h:0m:2s left)
+Iteration 830 / LogL: -3183.008 / Time: 0h:0m:55s (0h:0m:2s left)
+Iteration 840 / LogL: -3168.454 / Time: 0h:0m:56s (0h:0m:1s left)
+Iteration 850 / LogL: -3162.281 / Time: 0h:0m:56s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -3190.987
+Iteration 860 / LogL: -3168.455 / Time: 0h:0m:57s (0h:0m:1s left)
+Iteration 870 / LogL: -3168.200 / Time: 0h:0m:57s (0h:0m:0s left)
+Iteration 880 / LogL: -3168.201 / Time: 0h:0m:57s (0h:0m:0s left)
+Iteration 890 / LogL: -3167.128 / Time: 0h:0m:58s (0h:0m:0s left)
+Iteration 900 / LogL: -3162.278 / Time: 0h:0m:58s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3191.201
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.972
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 910 / LogL: -3162.279 / Time: 0h:0m:59s (0h:0m:2s left)
+Iteration 920 / LogL: -3162.281 / Time: 0h:0m:59s (0h:0m:2s left)
+Iteration 930 / LogL: -3167.126 / Time: 0h:0m:59s (0h:0m:2s left)
+Iteration 940 / LogL: -3183.010 / Time: 0h:1m:0s (0h:0m:1s left)
+Iteration 950 / LogL: -3162.277 / Time: 0h:1m:0s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -3191.201
+Iteration 960 / LogL: -3162.281 / Time: 0h:1m:0s (0h:0m:1s left)
+Iteration 970 / LogL: -3167.126 / Time: 0h:1m:1s (0h:0m:0s left)
+Iteration 980 / LogL: -3162.278 / Time: 0h:1m:1s (0h:0m:0s left)
+Iteration 990 / LogL: -3170.594 / Time: 0h:1m:2s (0h:0m:0s left)
+Iteration 1000 / LogL: -3162.278 / Time: 0h:1m:2s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3191.201
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.969
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+WARNING: bootstrap analysis did not converge. You should rerun with higher number of iterations (-nm option)
+TREE SEARCH COMPLETED AFTER 1001 ITERATIONS / Time: 0h:1m:2s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3162.277
+Optimal log-likelihood: -3162.277
+Proportion of invariable sites: 0.662
+Parameters optimization took 1 rounds (0.004 sec)
+BEST SCORE FOUND : -3162.277
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+0.082 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.splits.nex
+Total tree length: 0.208
+
+Total number of iterations: 1001
+CPU time used for tree search: 129.333 sec (0h:2m:9s)
+Wall-clock time used for tree search: 32.596 sec (0h:0m:32s)
+Total CPU time used: 223.033 sec (0h:3m:43s)
+Total wall-clock time used: 62.700 sec (0h:1m:2s)
+
+Computing bootstrap consensus tree...
+Reading input file /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.splits.nex...
+19 taxa and 382 splits.
+Consensus tree written to /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.contree
+Reading input trees file /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.contree
+Log-likelihood of consensus tree: -3162.295
+
+Analysis results written to: 
+  IQ-TREE report:                /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.iqtree
+  Maximum-likelihood tree:       /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.treefile
+  Likelihood distances:          /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.splits.nex
+  Consensus tree:                /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.contree
+  Screen log file:               /home/musakromah_mk86/photobacterium-hdc-project/results/reproducibility/HDC2_sensitivity_no_FS3_1/Photobacterium_HDC2_no_FS3_1.log
+
+Date and Time: Sat Sep 26 23:32:09 2026

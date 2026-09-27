@@ -1,0 +1,29 @@
+HDC2 horizontal-acquisition evidence reconstruction
+=======================================================
+
+FS3_1: GCF_001676275.1
+S2MW2: GCF_036040135.1
+
+HDC2 protein identity: 97.059%
+Cross-species HDC2 comparisons: 162
+Cross-species comparisons with higher global identity: 41
+FS3_1-S2MW2 global-identity rank: 42/162
+
+FS3_1 -> S2MW2 whole-genome ANI: 86.3171%
+S2MW2 -> FS3_1 whole-genome ANI: 86.3201%
+Mean reciprocal ANI: 86.3186%
+
+16-kb locus identity: 99.513%
+16-kb query coverage: 100.00%
+16-kb alignment length: 16001 bp
+Mismatches: 74
+Gap openings: 4
+
+FS3_1 HDC2-bearing contig length: 23907 bp
+>=99%-identity non-overlapping coverage: 22897 bp (95.78%)
+HSP-length-weighted identity: 99.590%
+
+Near-full near-identical cassette matches: 2/36
+Largest pair-specific/low-prevalence block: 7915-15778 (7864 bp)
+
+Interpretation: the localized near-identity of the HDC2-associated region despite substantially lower whole-genome ANI is strongly consistent with recent horizontal acquisition/shared recent acquisition. Transfer direction is unresolved, and an unsampled third donor cannot be excluded.
